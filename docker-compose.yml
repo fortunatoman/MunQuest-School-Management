@@ -1,0 +1,26 @@
+services:
+  backend:
+    build:
+      context: ./Backend
+      dockerfile: Dockerfile
+    ports:
+      - "1000:1000"
+    env_file:
+      - ./Backend/.env
+    environment:
+      - PORT=1000
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: ./Frontend
+      dockerfile: Dockerfile
+      args:
+        # URLs the browser will use (host machine)
+        VITE_BACKEND_URL: ${VITE_BACKEND_URL:-http://localhost:1000}
+        VITE_FRONTEND_URL: ${VITE_FRONTEND_URL:-http://localhost:3001}
+    ports:
+      - "3001:3001"
+    depends_on:
+      - backend
+    restart: unless-stopped

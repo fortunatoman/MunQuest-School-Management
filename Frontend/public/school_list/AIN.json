@@ -1,0 +1,429 @@
+[
+    {
+        "school_code": "AIN_ADI_AIN",
+        "school_label": "Abu Dhabi Island International Private School",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_KAM_AIN",
+        "school_label": "Ain Al Khaleej Private School (American)",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_KMO_AIN",
+        "school_label": "Ain Al Khaleej Private School (MoE)",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_ADH_AIN",
+        "school_label": "Al Adhwa Private School",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_AME_AIN",
+        "school_label": "Al Ain American Private School",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_JBR_AIN",
+        "school_label": "Al Ain Juniors School (British)",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_JIN_AIN",
+        "school_label": "Al Ain Juniors School (Indian)",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_AND_AIN",
+        "school_label": "Al Andalus Private Academy",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_AWA_AIN",
+        "school_label": "Al Awael Private School",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_DAR_AIN",
+        "school_label": "Al Dar Private School",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_DHA_AIN",
+        "school_label": "Al Dhafra Private Academy",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_DSA_AIN",
+        "school_label": "Al Dhafra Private Schools (American)",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_DSB_AIN",
+        "school_label": "Al Dhafra Private Schools (British)",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_DHA_AIN_001",
+        "school_label": "Al Dhaher",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_FAL_AIN",
+        "school_label": "Al Falah Academy",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_FAL_AIN",
+        "school_label": "Al Falah Academy",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_ISR_AIN",
+        "school_label": "Al Israa Private School",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_INA_AIN",
+        "school_label": "Al Ittihad National Private School",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_KHA_AIN",
+        "school_label": "Al Khalil International Private School",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_MAN_AIN",
+        "school_label": "Al Manahel Private School",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_MUS_AIN",
+        "school_label": "Al Mustaqbal International Private School",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_RAY_AIN",
+        "school_label": "Al Rayaheen School",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_SIN_AIN",
+        "school_label": "Al Saad Indian School",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_SAN_AIN",
+        "school_label": "Al Sanawbar School",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_TIL_AIN",
+        "school_label": "Al Tafawwuq Al Ilmi Private School",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_YAH_AIN",
+        "school_label": "Al Yahar Private School",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_YAH_AIN",
+        "school_label": "Al Yahar Private School",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_AGR_AIN",
+        "school_label": "Alhamdaniya Grand Private School",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_ALI_AIN",
+        "school_label": "Alia International Private School",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_ANA_AIN",
+        "school_label": "American National School",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_BSC_AIN",
+        "school_label": "Baraem Al Ain Private Schools",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_BPW_AIN",
+        "school_label": "Bhavans Pearl Wisdom School",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_BKI_AIN",
+        "school_label": "Bin Khaldoon Islamic Private School",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_DUL_AIN",
+        "school_label": "Dar Al Uloom Private School",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_DHI_AIN",
+        "school_label": "Darul Huda Islamic School",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_EFA_AIN",
+        "school_label": "Emirates Falcon International Private School",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_ENS_AIN",
+        "school_label": "Emirates National Schools",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_EBR_AIN",
+        "school_label": "Emirates Private School (British)",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_EMO_AIN",
+        "school_label": "Emirates Private School (MoE)",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_FUT_AIN",
+        "school_label": "Future International Academy",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_GEN_AIN",
+        "school_label": "Global English School",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_GVI_AIN",
+        "school_label": "Grace Valley Indian School",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_IND_AIN",
+        "school_label": "Indian School",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_IPS_AIN",
+        "school_label": "International Private School",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_CHO_AIN",
+        "school_label": "International School Of Choueifat",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_LIW_AIN",
+        "school_label": "Liwa International School",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_LGI_AIN",
+        "school_label": "Liwa International School For Girls",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_MAD_AIN",
+        "school_label": "Madar International School",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_MHA_AIN",
+        "school_label": "Manor Hall International School",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_NIM_AIN",
+        "school_label": "New Indian Model School",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_OAS_AIN",
+        "school_label": "Oasis International School",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_OOE_AIN",
+        "school_label": "Our Own English High School (British)",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_OOE_AIN_001",
+        "school_label": "Our Own English High School (Indian)",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_PIS_AIN",
+        "school_label": "Pakistani Islamic Private School",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_TMO_AIN",
+        "school_label": "Tawam Private Model School",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_GUL_AIN",
+        "school_label": "The Gulf International Private Academy",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_UNI_AIN",
+        "school_label": "United Private School",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_UPH_AIN",
+        "school_label": "Universal Philippine School",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_UNI_AIN_001",
+        "school_label": "Universal Private School",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_UBR_AIN",
+        "school_label": "Universal Private School (British)",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    },
+    {
+        "school_code": "AIN_ZAK_AIN",
+        "school_label": "Zakher Private School",
+        "area_label": "Al Ain",
+        "place_code": "AIN",
+        "place_label": "Al Ain"
+    }
+]

@@ -1,0 +1,814 @@
+[
+    {
+        "school_code":"SH_ACH_FAL",
+        "school_label":"Al Ahliah Charity Private School",
+        "area_label":"Al Falaj",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_ACH_QAD",
+        "school_label":"Al Ahliah Charity Private School",
+        "area_label":"Al Qadisiya",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_ACB_SAM",
+        "school_label":"Al Ahliah Charity Private School For Boys",
+        "area_label":"Samnan",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_ASC_GHU",
+        "school_label":"Al Ahliah Private Schools",
+        "area_label":"Al Ghubaiba",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_AEN_BUT",
+        "school_label":"Al Amaal English High School",
+        "area_label":"Al Butainah",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_ADE_YAR",
+        "school_label":"Al Amal School For The Deaf",
+        "area_label":"Al Yarmouk",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_ADE_KHO",
+        "school_label":"Al Amal School For The Deaf",
+        "area_label":"Khorfakkan",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_AMA_RAM",
+        "school_label":"Al Amana Private School",
+        "area_label":"Al Ramla",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_ANS_QAR",
+        "school_label":"Al Ansar International Private School",
+        "area_label":"Al Qarain",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_ANA_QAR",
+        "school_label":"Al Ansar National Private School",
+        "area_label":"Al Qarain",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_BAS_SHA",
+        "school_label":"Al Basaier Private School",
+        "area_label":"Shargan",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_BNA_HAZ",
+        "school_label":"Al Bayan National School",
+        "area_label":"Al Hazana",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_BAY_KHO",
+        "school_label":"Al Bayan Private School",
+        "area_label":"Khorfakkan",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_CHO_IND",
+        "school_label":"Al Choueifat International School",
+        "area_label":"Industrial Area",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_DEN_MUW",
+        "school_label":"Al Delta English School",
+        "area_label":"Muwailih",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_DHA_DHA",
+        "school_label":"Al Dhaid Private School",
+        "area_label":"Al Dhaid",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_DSC_GHU",
+        "school_label":"Al Dhia Al Scientific Private School",
+        "area_label":"Al Ghubaiba",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_DUR_IND",
+        "school_label":"Al Durrah International School",
+        "area_label":"Industrial Area",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_IST_MUW",
+        "school_label":"Al Istiqlal Private School",
+        "area_label":"Muwailih",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_IAM_AZR",
+        "school_label":"Al Itqan American School Private",
+        "area_label":"Al Azra",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_KAM_AZR",
+        "school_label":"Al Kamal American Private International School",
+        "area_label":"Al Azra",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_KAN_HAL",
+        "school_label":"Al Kamal American Private Nt School",
+        "area_label":"Halwan",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_KAM_RAM",
+        "school_label":"Al Kamal American Private School",
+        "area_label":"Al Ramtha",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_MAR_YAR",
+        "school_label":"Al Marifa International Private School",
+        "area_label":"Al Yarmouk",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_MBR_ABA",
+        "school_label":"Al Mawahib British Private School",
+        "area_label":"Al Abar",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_MUS_YAR",
+        "school_label":"Al Mustaqbal Private School",
+        "area_label":"Al Yarmouk",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_NAJ_AZR",
+        "school_label":"Al Najma Private School",
+        "area_label":"Al Azra",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_NIN_GHU",
+        "school_label":"Al Noor Int. School",
+        "area_label":"Al Ghubaiba",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_QEM_KHO",
+        "school_label":"Al Qemah Private School",
+        "area_label":"Khorfakkan",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_RAM_RAH",
+        "school_label":"Al Resalah American International School",
+        "area_label":"Al Rahmaniyah",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_RSC_AZR",
+        "school_label":"Al Resalah International Private School Of Science",
+        "area_label":"Al Azra",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_RBR_AZR",
+        "school_label":"Al Rowad British Private School",
+        "area_label":"Al Azra",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_RAM_MUW",
+        "school_label":"Al Rushed American Private School",
+        "area_label":"Muwailih",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_SIN_DHA",
+        "school_label":"Al Sabah Indian Private School",
+        "area_label":"Al Dhaid",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_SGI_NAK",
+        "school_label":"Al Saleh Private School For Girls",
+        "area_label":"Al Nakheelat",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_SHO_FAL",
+        "school_label":"Al Shola Private School",
+        "area_label":"Al Falah",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_SHO_IND",
+        "school_label":"Al Shola Private School",
+        "area_label":"Industrial Area",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_TAF_DHA",
+        "school_label":"Al Tafawq Private School",
+        "area_label":"Al Dhaid",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_ULL_AZR",
+        "school_label":"Al Ulla Private School",
+        "area_label":"Al Azra",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_WAH_QAR",
+        "school_label":"Al Wahda School",
+        "area_label":"Al Qarain",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_ZEH_MUW",
+        "school_label":"Al Zehour Private School",
+        "area_label":"Muwailih",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_ALS_KAL",
+        "school_label":"Alsedra Private School",
+        "area_label":"Kalba",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_AMB_MUW",
+        "school_label":"Ambassador School",
+        "area_label":"Muwailih",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_AGU_RAH",
+        "school_label":"American Gulf School",
+        "area_label":"Al Rahmaniyah",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_AME_KAL",
+        "school_label":"American Private School",
+        "area_label":"Kalba",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_ACS_IND",
+        "school_label":"American School Of Creative Science",
+        "area_label":"Industrial Area",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_AMI_MUW",
+        "school_label":"Amity Private School",
+        "area_label":"Muwailih",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_AIN_AZR",
+        "school_label":"Aspam Indian International Private School",
+        "area_label":"Al Azra",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_AUS_IND",
+        "school_label":"Australian International Private School",
+        "area_label":"Industrial Area",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_BKH_AZR",
+        "school_label":"Beaconhouse Al Khaleej International School",
+        "area_label":"Al Azra",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_BPW_AZR",
+        "school_label":"Bhavans Pearl Wisdom School",
+        "area_label":"Al Azra",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_BKH_AZR_001",
+        "school_label":"Bin Khaldun Private School",
+        "area_label":"Al Azra",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_BRI_MUW",
+        "school_label":"Brilliant International Private School",
+        "area_label":"Muwailih",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_CBR_RAM",
+        "school_label":"Cloud British Private School",
+        "area_label":"Al Ramla",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_DSA_GHU",
+        "school_label":"Darb Al Saada Private School",
+        "area_label":"Al Ghubaiba",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_DEL_MUW",
+        "school_label":"Delhi Private School",
+        "area_label":"Muwailih",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_ECE_KHO",
+        "school_label":"East Coast Eng School",
+        "area_label":"Khorfakkan",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_ELI_AZR",
+        "school_label":"Elite School",
+        "area_label":"Al Azra",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_EAM_FAL",
+        "school_label":"Emirates American School",
+        "area_label":"Al Falah",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_ENA_NAK",
+        "school_label":"Emirates National School",
+        "area_label":"Al Nakheelat",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_ENS_RAH",
+        "school_label":"Emirates National Schools",
+        "area_label":"Al Rahmaniyah",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_EMI_MAN",
+        "school_label":"Emirates Private School",
+        "area_label":"Al Manakh",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_ENG_KAL",
+        "school_label":"English Private School",
+        "area_label":"Kalba",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_FEA_ABA",
+        "school_label":"Far Eastern Private School Al Abar",
+        "area_label":"Al Abar",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_FES_SHA",
+        "school_label":"Far Eastern Private School Al Shahba",
+        "area_label":"Al Shahba",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_GCA_MUW",
+        "school_label":"Gems Cambridge International Private School",
+        "area_label":"Muwailih",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_GMI_MUW",
+        "school_label":"Gems Millennium Private School",
+        "area_label":"Muwailih",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_GWE_MUW",
+        "school_label":"Gems Westminster School",
+        "area_label":"Muwailih",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_GER_ABA",
+        "school_label":"German International School Sharjah",
+        "area_label":"Al Abar",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_GAE_MUW",
+        "school_label":"Gulf Asian English Schools",
+        "area_label":"Muwailih",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_ISE_SHA",
+        "school_label":"Ibn Seena English High School",
+        "area_label":"Al Shahba",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_IND_MUW",
+        "school_label":"India International School",
+        "area_label":"Muwailih",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_IEX_AZR",
+        "school_label":"Indian Excellent Private School",
+        "area_label":"Al Azra",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_CSC_MUW",
+        "school_label":"International School of Creative Science Private",
+        "area_label":"Muwailih",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_LEA_AZR",
+        "school_label":"Leaders Private School",
+        "area_label":"Al Azra",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_MAN_DAS",
+        "school_label":"Manarat Al Sharjah Private School",
+        "area_label":"Dasman",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_MAM_MUW",
+        "school_label":"Manthena American School",
+        "area_label":"Muwailih",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_MAS_AZR",
+        "school_label":"Masar Private School",
+        "area_label":"Al Azra",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_NIM_AZR",
+        "school_label":"New Indian Model School",
+        "area_label":"Al Azra",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_NIM_AZR_001",
+        "school_label":"Nibras Al Iman Private School",
+        "area_label":"Al Azra",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_OOE_IND",
+        "school_label":"Our Own English High School",
+        "area_label":"Industrial Area",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_OOE_JUW",
+        "school_label":"Our Own English High School",
+        "area_label":"Juwaiza",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_PBR_MUW",
+        "school_label":"Pace British School",
+        "area_label":"Muwailih",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_PAC_MUW",
+        "school_label":"Pace International School",
+        "area_label":"Muwailih",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_PIH_GHU",
+        "school_label":"Pakistan Islamia Higher Secondary School",
+        "area_label":"Al Ghubaiba",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_PAM_RAH",
+        "school_label":"Pamir Private School",
+        "area_label":"Al Rahmaniyah",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_SIN_RAH",
+        "school_label":"Private School Of Scientific Innovation",
+        "area_label":"Al Rahmaniyah",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_PEN_YAR",
+        "school_label":"Progressive Eng. School",
+        "area_label":"Al Yarmouk",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_PEN_MUW",
+        "school_label":"Providence English Private School",
+        "area_label":"Muwailih",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_RIG_YAR",
+        "school_label":"Radiant Indian School For Girls & Boys",
+        "area_label":"Al Yarmouk",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_ROS_MUW",
+        "school_label":"Rosary Private School",
+        "area_label":"Muwailih",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_RIN_MUW",
+        "school_label":"Ryan Intl. Private School",
+        "area_label":"Muwailih",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_SAB_ALJ",
+        "school_label":"Sabis International Private School",
+        "area_label":"Aljada",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_SFA_QAD",
+        "school_label":"Salman Al Farsi School",
+        "area_label":"Al Qadisiya",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_SAM_AZR",
+        "school_label":"Sama American Private School",
+        "area_label":"Al Azra",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_SCH_MUW",
+        "school_label":"Scholars International Academy Private School",
+        "area_label":"Muwailih",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_KNO_AZR",
+        "school_label":"School Of Knowledge",
+        "area_label":"Al Azra",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_AIN_RUM",
+        "school_label":"Sharjah American Int. Private School",
+        "area_label":"Al Rumaqiyya",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_ENG_IND",
+        "school_label":"Sharjah English School",
+        "area_label":"Industrial Area",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_IND_JUW",
+        "school_label":"Sharjah Indian Private School",
+        "area_label":"Juwaiza",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_IND_GHU",
+        "school_label":"Sharjah Indian School",
+        "area_label":"Al Ghubaiba",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_BRI_QAR",
+        "school_label":"Sharjah International Private School (British)",
+        "area_label":"Al Qarain",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_MOE_QAR",
+        "school_label":"Sharjah International Private School (MoE)",
+        "area_label":"Al Qarain",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_PCP_JAZ",
+        "school_label":"Sharjah Public School & Childrens Pavilion",
+        "area_label":"Al Jazzat",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_SBR_MUW",
+        "school_label":"Shj. British International Private School",
+        "area_label":"Muwailih",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_SBA_MUW",
+        "school_label":"Shj. British International Private School (American)",
+        "area_label":"Muwailih",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_SDI_AZR",
+        "school_label":"Spring Dale Indian School",
+        "area_label":"Al Azra",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_SGH_AZR",
+        "school_label":"Sunaa Al Ghad School",
+        "area_label":"Al Azra",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_TAM_AZR",
+        "school_label":"Taryam American Private School",
+        "area_label":"Al Azra",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_HEN_AZR",
+        "school_label":"The Hope English School",
+        "area_label":"Al Azra",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_MAI_AZR",
+        "school_label":"The Modern American Int. Private School",
+        "area_label":"Al Azra",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_NFI_DAS",
+        "school_label":"The New Filipino Private School",
+        "area_label":"Dasman",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_VEN_AZR",
+        "school_label":"Victoria English Private School",
+        "area_label":"Al Azra",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_VSC_MAM",
+        "school_label":"Victoria International Schools of Sharjah",
+        "area_label":"Al Mamzar",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_VSC_MAL",
+        "school_label":"Victoria International Schools of Sharjah",
+        "area_label":"Maliha",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    },
+    {
+        "school_code":"SH_WGR_MUW",
+        "school_label":"Wes Green International Private School",
+        "area_label":"Muwailih",
+        "place_code":"SH",
+        "place_label":"Sharjah"
+    }
+]

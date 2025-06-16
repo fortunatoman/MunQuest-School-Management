@@ -1,0 +1,72 @@
+[
+    {
+        "school_code":"UAQ_ADH_-",
+        "school_label":"Al Adhwa Private School",
+        "area_label":"-",
+        "place_code":"UAQ",
+        "place_label":"Umm Al Quwain"
+    },
+    {
+        "school_code":"UAQ_SAN_-",
+        "school_label":"Al Sanawbar School",
+        "area_label":"-",
+        "place_code":"UAQ",
+        "place_label":"Umm Al Quwain"
+    },
+    {
+        "school_code":"UAQ_YAS_-",
+        "school_label":"Al Yasat Private School",
+        "area_label":"-",
+        "place_code":"UAQ",
+        "place_label":"Umm Al Quwain"
+    },
+    {
+        "school_code":"UAQ_SAM_-",
+        "school_label":"Sharjah American International School Umm Al Quwain",
+        "area_label":"-",
+        "place_code":"UAQ",
+        "place_label":"Umm Al Quwain"
+    },
+    {
+        "school_code":"UAQ_EAM_-",
+        "school_label":"The Elite American Private School",
+        "area_label":"-",
+        "place_code":"UAQ",
+        "place_label":"Umm Al Quwain"
+    },
+    {
+        "school_code":"UAQ_ENG_-",
+        "school_label":"The English School",
+        "area_label":"-",
+        "place_code":"UAQ",
+        "place_label":"Umm Al Quwain"
+    },
+    {
+        "school_code":"UAQ_CHO_-",
+        "school_label":"The International School of Choueifat Umm Al Quwain",
+        "area_label":"-",
+        "place_code":"UAQ",
+        "place_label":"Umm Al Quwain"
+    },
+    {
+        "school_code":"UAQ_NIN_-",
+        "school_label":"The New Indian School",
+        "area_label":"-",
+        "place_code":"UAQ",
+        "place_label":"Umm Al Quwain"
+    },
+    {
+        "school_code":"UAQ_QUR_-",
+        "school_label":"Umm Al Qura Private School",
+        "area_label":"-",
+        "place_code":"UAQ",
+        "place_label":"Umm Al Quwain"
+    },
+    {
+        "school_code":"UAQ_WIN_-",
+        "school_label":"Wise Indian Private School",
+        "area_label":"-",
+        "place_code":"UAQ",
+        "place_label":"Umm Al Quwain"
+    }
+]

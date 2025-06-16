@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Confirm your signup</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            background-color: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .logo {
+            font-size: 28px;
+            font-weight: bold;
+            color: #2c5aa0;
+            margin-bottom: 10px;
+        }
+        .button {
+            display: inline-block;
+            background-color: #2c5aa0;
+            color: white;
+            padding: 12px 30px;
+            text-decoration: none;
+            border-radius: 5px;
+            margin: 20px 0;
+            font-weight: bold;
+        }
+        .button:hover {
+            background-color: #1e3d6f;
+        }
+        .footer {
+            margin-top: 30px;
+            padding-top: 20px;
+            border-top: 1px solid #eee;
+            font-size: 14px;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="logo">MunQuest</div>
+            <h1>Welcome to MunQuest!</h1>
+        </div>
+        
+        <p>Thank you for signing up for MunQuest! We're excited to have you join our community of Model United Nations enthusiasts.</p>
+        
+        <p>To complete your registration and start exploring all the amazing MUN events, please confirm your email address by clicking the button below:</p>
+        
+        <p><strong>🎉 Great news!</strong> Clicking the button below will automatically log you into your MunQuest account and take you directly to your dashboard!</p>
+        
+        <div style="text-align: center;">
+            <a href="{{ .ConfirmationURL }}" class="button">Confirm Your Email & Login</a>
+        </div>
+        
+        <div class="footer">
+            <p>If you didn't create an account with MunQuest, you can safely ignore this email.</p>
+            <p>This link will expire in 24 hours for security reasons.</p>
+            <p>Best regards,<br>The MunQuest Team</p>
+        </div>
+    </div>
+</body>
+</html>

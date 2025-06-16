@@ -1,0 +1,170 @@
+[
+    {
+        "school_code":"RAK_ARA_-",
+        "school_label":"Al Arabiya Private School",
+        "area_label":"-",
+        "place_code":"RAK",
+        "place_label":"Ras Al Khaimah"
+    },
+    {
+        "school_code":"RAK_MAN_-",
+        "school_label":"Al Manar Private School",
+        "area_label":"-",
+        "place_code":"RAK",
+        "place_label":"Ras Al Khaimah"
+    },
+    {
+        "school_code":"RAK_NAS_-",
+        "school_label":"Al Nasr Private School",
+        "area_label":"-",
+        "place_code":"RAK",
+        "place_label":"Ras Al Khaimah"
+    },
+    {
+        "school_code":"RAK_RBR_-",
+        "school_label":"Al Rashad British Private School",
+        "area_label":"-",
+        "place_code":"RAK",
+        "place_label":"Ras Al Khaimah"
+    },
+    {
+        "school_code":"RAK_RMO_-",
+        "school_label":"Al Rawabi Modern Private School",
+        "area_label":"-",
+        "place_code":"RAK",
+        "place_label":"Ras Al Khaimah"
+    },
+    {
+        "school_code":"RAK_SSA_-",
+        "school_label":"Al Salaf Al Saleh Private School",
+        "area_label":"-",
+        "place_code":"RAK",
+        "place_label":"Ras Al Khaimah"
+    },
+    {
+        "school_code":"RAK_ALP_-",
+        "school_label":"Alpha Private School",
+        "area_label":"-",
+        "place_code":"RAK",
+        "place_label":"Ras Al Khaimah"
+    },
+    {
+        "school_code":"RAK_BIS_-",
+        "school_label":"Bangladesh Islamia Private School",
+        "area_label":"-",
+        "place_code":"RAK",
+        "place_label":"Ras Al Khaimah"
+    },
+    {
+        "school_code":"RAK_DSA_-",
+        "school_label":"Dar Al Salam Private School",
+        "area_label":"-",
+        "place_code":"RAK",
+        "place_label":"Ras Al Khaimah"
+    },
+    {
+        "school_code":"RAK_GWE_-",
+        "school_label":"GEMS Westminster School Ras Al Khaimah",
+        "area_label":"-",
+        "place_code":"RAK",
+        "place_label":"Ras Al Khaimah"
+    },
+    {
+        "school_code":"RAK_IEN_-",
+        "school_label":"Ideal English School",
+        "area_label":"-",
+        "place_code":"RAK",
+        "place_label":"Ras Al Khaimah"
+    },
+    {
+        "school_code":"RAK_IMO_-",
+        "school_label":"Indian Modern Private School",
+        "area_label":"-",
+        "place_code":"RAK",
+        "place_label":"Ras Al Khaimah"
+    },
+    {
+        "school_code":"RAK_IND_-",
+        "school_label":"Indian Private School",
+        "area_label":"-",
+        "place_code":"RAK",
+        "place_label":"Ras Al Khaimah"
+    },
+    {
+        "school_code":"RAK_IPU_-",
+        "school_label":"Indian Public High School",
+        "area_label":"-",
+        "place_code":"RAK",
+        "place_label":"Ras Al Khaimah"
+    },
+    {
+        "school_code":"RAK_IST_-",
+        "school_label":"Indian Students Private School",
+        "area_label":"-",
+        "place_code":"RAK",
+        "place_label":"Ras Al Khaimah"
+    },
+    {
+        "school_code":"RAK_CHO_-",
+        "school_label":"International School of Choueifat",
+        "area_label":"-",
+        "place_code":"RAK",
+        "place_label":"Ras Al Khaimah"
+    },
+    {
+        "school_code":"RAK_IED_-",
+        "school_label":"Islamic Education Private School",
+        "area_label":"-",
+        "place_code":"RAK",
+        "place_label":"Ras Al Khaimah"
+    },
+    {
+        "school_code":"RAK_NSA_-",
+        "school_label":"Nedaa Al Salam Private School",
+        "area_label":"-",
+        "place_code":"RAK",
+        "place_label":"Ras Al Khaimah"
+    },
+    {
+        "school_code":"RAK_PHI_-",
+        "school_label":"Pakistan Higher Secondary School",
+        "area_label":"-",
+        "place_code":"RAK",
+        "place_label":"Ras Al Khaimah"
+    },
+    {
+        "school_code":"RAK_RAK_-",
+        "school_label":"RAK Academy",
+        "area_label":"-",
+        "place_code":"RAK",
+        "place_label":"Ras Al Khaimah"
+    },
+    {
+        "school_code":"RAK_RMO_-_001",
+        "school_label":"RAK Modern Private School",
+        "area_label":"-",
+        "place_code":"RAK",
+        "place_label":"Ras Al Khaimah"
+    },
+    {
+        "school_code":"RAK_REN_-",
+        "school_label":"Ramsis Private English School",
+        "area_label":"-",
+        "place_code":"RAK",
+        "place_label":"Ras Al Khaimah"
+    },
+    {
+        "school_code":"RAK_AGI_-",
+        "school_label":"Ras Al Khaimah American Academy for Girls",
+        "area_label":"-",
+        "place_code":"RAK",
+        "place_label":"Ras Al Khaimah"
+    },
+    {
+        "school_code":"RAK_SHB_-",
+        "school_label":"Sheikha Hessa bint Saqr Private School",
+        "area_label":"-",
+        "place_code":"RAK",
+        "place_label":"Ras Al Khaimah"
+    }
+]

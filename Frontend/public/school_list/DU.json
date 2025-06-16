@@ -1,0 +1,1570 @@
+[
+    {
+        "school_code": "DU_AIB_QUS",
+        "school_label": "Al Adab Iranian Private School  for Girls",
+        "area_label": "Al Qusais",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_AIG_QUS",
+        "school_label": "Al Adab Iranian Private School for Boys",
+        "area_label": "Al Qusais",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_ARQ_ALB",
+        "school_label": "Al Arqm Private School",
+        "area_label": "Al Barsha",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_DIY_NAH",
+        "school_label": "Al Diyafah High School School",
+        "area_label": "Al Nahda",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_EED_RAS",
+        "school_label": "Al Eman Educational",
+        "area_label": "Al Rashidiya",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_FAN_NAS",
+        "school_label": "Al Fanar School",
+        "area_label": "Nad Al Sheba",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_GHA_JAL",
+        "school_label": "Al Ghaf Private School",
+        "area_label": "Jebal Ali",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_ITT_ALZ",
+        "school_label": "Al Ittihad Private School",
+        "area_label": "Al Mamzar",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_ITT_ALF",
+        "school_label": "Al Ittihad Private School",
+        "area_label": "Al Safa",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_MAM_QUS",
+        "school_label": "Al Maaref American School",
+        "area_label": "Al Qusais",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_MAW_ALB",
+        "school_label": "Al Mawakeb School",
+        "area_label": "Al Barsha",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_MAW_ALG",
+        "school_label": "Al Mawakeb School",
+        "area_label": "Al Garhoud",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_MAW_ALM",
+        "school_label": "Al Mawakeb School",
+        "area_label": "Al Mizhar",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_NIB_DIP",
+        "school_label": "Al Nibras International Private School ",
+        "area_label": "Dubai Investment Park",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_RSA_ODM",
+        "school_label": "Al Rashid Al Saleh Private School",
+        "area_label": "Oud Metha",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_SIE_QUS",
+        "school_label": "Al Sadiq Islamic English School",
+        "area_label": "Al Qusais",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_SCO_ALT",
+        "school_label": "Al Salam Community School",
+        "area_label": "Al Twar",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_SAL_NAH",
+        "school_label": "Al Salam Private School",
+        "area_label": "Al Nahda",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_SHU_JUM",
+        "school_label": "Al Shurooq Private School",
+        "area_label": "Jumeira",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_AMB_ALQ",
+        "school_label": "Ambassador International Academy",
+        "area_label": "Al Quoz",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_AMB_MAN",
+        "school_label": "Ambassador School",
+        "area_label": "Mankhool",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_AGI_ALM",
+        "school_label": "American Academy for Girls",
+        "area_label": "Al Mizhar",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_AME_QUS",
+        "school_label": "American International School",
+        "area_label": "Al Qusais",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_AME_ALB",
+        "school_label": "American School",
+        "area_label": "Al Barsha",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_ACS_NAS",
+        "school_label": "American School of Creative Science",
+        "area_label": "Nad Al Sheba",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_AEN_QUS",
+        "school_label": "Amity English School",
+        "area_label": "Al Qusais",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_AMI_QUS",
+        "school_label": "Amity School",
+        "area_label": "Al Qusais",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_APP_QUS",
+        "school_label": "Apple International School",
+        "area_label": "Al Qusais",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_AUN_ALM",
+        "school_label": "Arab Unity School",
+        "area_label": "Al Mizhar",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_ABR_JAL",
+        "school_label": "Arcadia British School",
+        "area_label": "Jebal Ali",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_AGL_AFJ",
+        "school_label": "Arcadia Global School",
+        "area_label": "Al Furjan",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_AUS_ALB",
+        "school_label": "Australian International School",
+        "area_label": "Al Barsha",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_BCX_UQS",
+        "school_label": "BC Academy International School",
+        "area_label": "Umm Suqeim",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_BFR_MYD",
+        "school_label": "Bilingual French International School",
+        "area_label": "Meydan City",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_BWO_ALB",
+        "school_label": "Bloom World Academy",
+        "area_label": "Al Barsha",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_BLE_RAS",
+        "school_label": "Bright Learners Private School",
+        "area_label": "Al Rashidiya",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_BRI_DIP",
+        "school_label": "Bright Riders School",
+        "area_label": "Dubai Investment Park",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_BRI_ALB",
+        "school_label": "Brighton College",
+        "area_label": "Al Barsha",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_BPU_MUH",
+        "school_label": "Buds Public School",
+        "area_label": "Muhaisnah",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_CAM_ALT",
+        "school_label": "Cambridge International School",
+        "area_label": "Al Twar",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_CAP_QUS",
+        "school_label": "Capital School",
+        "area_label": "Al Qusais",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_CED_ALW",
+        "school_label": "Cedar School",
+        "area_label": "Al Warqa",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_CHI_MRD",
+        "school_label": "Chinese School",
+        "area_label": "Mirdif",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_CIT_SAT",
+        "school_label": "Citizens School",
+        "area_label": "Al Satwa",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_CLA_ALQ",
+        "school_label": "Clarion School",
+        "area_label": "Al Quoz",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_COL_UQS",
+        "school_label": "Collegiate International School",
+        "area_label": "Umm Suqeim",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_CRE_ALQ",
+        "school_label": "Credence High School",
+        "area_label": "Al Quoz",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_CEN_QUS",
+        "school_label": "Crescent English School",
+        "area_label": "Al Qusais",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_DEW_HUD",
+        "school_label": "Dar Al Marefa Private School",
+        "area_label": "Al Khawaneej",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_DMA_ALK",
+        "school_label": "Deira International School",
+        "area_label": "Dubai Festival City",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_DEI_DFC",
+        "school_label": "Deira Private School",
+        "area_label": "Al Twar",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_DEI_ALT",
+        "school_label": "Delhi Private School",
+        "area_label": "Jebal Ali",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_DEL_JAL",
+        "school_label": "DEWA  Academy",
+        "area_label": "Al Hudaiba",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_DEW_ALQ",
+        "school_label": "Dewvale School",
+        "area_label": "Al Quoz",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_DGL_ALB",
+        "school_label": "Dhruv Global School",
+        "area_label": "Al Barsha",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_DGR_DIP",
+        "school_label": "Dove Green Private School",
+        "area_label": "Dubai Investment Park",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_BRI_EMH",
+        "school_label": "Dubai British School",
+        "area_label": "Emirates Hills",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_BRI_JUM",
+        "school_label": "Dubai British School",
+        "area_label": "Jumeira",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_BRI_JPK",
+        "school_label": "Dubai British School ",
+        "area_label": "Jumeirah Park",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_CAR_QUS",
+        "school_label": "Dubai Carmel School",
+        "area_label": "Al Qusais",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_DCO_SAF",
+        "school_label": "Dubai College",
+        "area_label": "Al Safouh",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_ESP_ACI",
+        "school_label": "Dubai English Speaking College",
+        "area_label": "Academic City",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_ESP_ODM",
+        "school_label": "Dubai English Speaking School",
+        "area_label": "Oud Metha",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_GEM_ODM",
+        "school_label": "Dubai Gem Private School",
+        "area_label": "Oud Metha",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_HEI_ALB",
+        "school_label": "Dubai Heights  Academy",
+        "area_label": "Al Barsha",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_DIA_ALB",
+        "school_label": "Dubai International Academy",
+        "area_label": "Al Barsha",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_DIA_EMH",
+        "school_label": "Dubai International Academy",
+        "area_label": "Emirates Hills",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_DIP_ALG",
+        "school_label": "Dubai International Private School",
+        "area_label": "Al Garhoud",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_DIP_ALQ",
+        "school_label": "Dubai International Private School",
+        "area_label": "Al Quoz",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_MED_ALM",
+        "school_label": "Dubai Modern Education School",
+        "area_label": "Al Mizhar",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_NAT_ALB",
+        "school_label": "Dubai National School",
+        "area_label": "Al Barsha",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_NAT_ALT",
+        "school_label": "Dubai National School",
+        "area_label": "Al Twar",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_SCH_QUS",
+        "school_label": "Dubai Scholars Private School",
+        "area_label": "Al Qusais",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_SCO_ALB",
+        "school_label": "Dubai Schools Corporation",
+        "area_label": "Al Barsha",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_SCO_ALK",
+        "school_label": "Dubai Schools Corporation",
+        "area_label": "Al Khawaneej",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_SCO_NAS",
+        "school_label": "Dubai Schools Corporation",
+        "area_label": "Nad Al Sheba",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_DAM_BAR",
+        "school_label": "Dunecrest American School",
+        "area_label": "Al Barari",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_DUR_DIP",
+        "school_label": "Durham School",
+        "area_label": "Dubai Investment Park",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_DWI_DSC",
+        "school_label": "Dwight School",
+        "area_label": "Dubai Sports City",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_EEN_DEI",
+        "school_label": "Elite English School",
+        "area_label": "Deira",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_EMI_MEA",
+        "school_label": "Emirates International School",
+        "area_label": "Meadows",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_EMI_UQS",
+        "school_label": "Emirates International School",
+        "area_label": "Umm Suqeim",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_ENS_ALK",
+        "school_label": "Emirates National Schools",
+        "area_label": "Al Khawaneej",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_ELA_UHU",
+        "school_label": "English Language Private School",
+        "area_label": "Umm Hurair",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_FAI_DLA",
+        "school_label": "Fairgreen International School",
+        "area_label": "Dubailand",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_GKH_ALW",
+        "school_label": "GEMS Al Khaleej International School",
+        "area_label": "Al Warqa",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_GAN_ALB",
+        "school_label": "GEMS Albarsha National School",
+        "area_label": "Al Barsha",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_GAM_ALB",
+        "school_label": "GEMS Dubai American Academy",
+        "area_label": "Al Barsha",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_GFP_DLA",
+        "school_label": "GEMS First Point School",
+        "area_label": "Dubailand",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_GFO_ALB",
+        "school_label": "GEMS Founders School",
+        "area_label": "Al Barsha",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_GFO_DSO",
+        "school_label": "GEMS Founders School",
+        "area_label": "Dubai South",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_GFO_ALM",
+        "school_label": "GEMS Founders School ",
+        "area_label": "Al Mizhar",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_GEM_KHA",
+        "school_label": "GEMS International School",
+        "area_label": "Al Khail",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_GJU_JTH",
+        "school_label": "GEMS Jumeira Primary School",
+        "area_label": "Jumeira Third",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_GLE_ALG",
+        "school_label": "GEMS Legacy School",
+        "area_label": "Al Garhoud",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_GME_WAH",
+        "school_label": "GEMS Metropole School ",
+        "area_label": "Al Waha",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_GME_MCI",
+        "school_label": "GEMS Metropole School Dubai",
+        "area_label": "Motor City",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_GMO_NAS",
+        "school_label": "GEMS Modern Academy",
+        "area_label": "Nad Al Sheba",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_GNM_DHL",
+        "school_label": "GEMS New Millennium School",
+        "area_label": "Dubai Hills",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_GOO_ALW",
+        "school_label": "GEMS Our Own English High School",
+        "area_label": "Al Warqa",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_GOO_ALQ",
+        "school_label": "GEMS Our Own Indian School",
+        "area_label": "Al Quoz",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_GRO_MRD",
+        "school_label": "GEMS Royal Dubai School",
+        "area_label": "Mirdif",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_GWE_KHA",
+        "school_label": "GEMS Wellington Academy",
+        "area_label": "Al Khail",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_GWE_DSO",
+        "school_label": "GEMS Wellington Academy",
+        "area_label": "Dubai Silicon Oasis",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_GWE_SAF",
+        "school_label": "GEMS Wellington International School",
+        "area_label": "Al Safouh",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_GWI_DBL",
+        "school_label": "GEMS Winchester School",
+        "area_label": "Dubailand",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_GWO_ALB",
+        "school_label": "GEMS World  Academy",
+        "area_label": "Al Barsha",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_GER_ACI",
+        "school_label": "German International School",
+        "area_label": "Academic City",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_GLE_ODM",
+        "school_label": "Glendale International School",
+        "area_label": "Oud Metha",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_GIN_ALQ",
+        "school_label": "Global Indian International School",
+        "area_label": "Al Quoz",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_GRA_ALG",
+        "school_label": "Grammar School",
+        "area_label": "Al Garhoud",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_GRE_DIP",
+        "school_label": "Greenfield International School",
+        "area_label": "Dubai Investment Park",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_GRE_MUH",
+        "school_label": "Greenwood International School",
+        "area_label": "Muhaisnah",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_GIN_ALG",
+        "school_label": "Gulf Indian High School",
+        "area_label": "Al Garhoud",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_GMO_MUH",
+        "school_label": "Gulf Model School",
+        "area_label": "Muhaisnah",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_HHS_QUS",
+        "school_label": "H.H. Shaikh Rashid Al Maktoum Pakistani School",
+        "area_label": "Al Qusais",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_HHE_ALT",
+        "school_label": "Hampton Heights International School",
+        "area_label": "Al Twar",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_HAR_MYD",
+        "school_label": "Hartland International School",
+        "area_label": "Meydan City",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_HEB_AHA",
+        "school_label": "Himayah School For Education Boys",
+        "area_label": "Abu Hail",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_HEG_KAR",
+        "school_label": "Himayah School For Education Girls",
+        "area_label": "Al Karama",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_HEN_WAS",
+        "school_label": "Horizon English School",
+        "area_label": "Al Wasl",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_HEN_DLA",
+        "school_label": "Horizon English School",
+        "area_label": "Dubailand",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_HOR_USH",
+        "school_label": "Horizon International School",
+        "area_label": "Umm Al Sheif",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_IME_DKP",
+        "school_label": "Icademy Middle East ",
+        "area_label": "Dubai Knowledge Park",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_IGN_ALW",
+        "school_label": "Ignite School",
+        "area_label": "Al Warqa",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_ACA_ALW",
+        "school_label": "International Academic School",
+        "area_label": "Al Warqa",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_ASC_ALW",
+        "school_label": "International School of Arts & Sciences",
+        "area_label": "Al Warqa",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_CSC_NAS",
+        "school_label": "International School of Creative Science",
+        "area_label": "Nad Al Sheba",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_IKK_KAR",
+        "school_label": "Iranian Khadije Kobra School",
+        "area_label": "Al Karama",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_ISF_QUS",
+        "school_label": "Iranian Salman Farsi Boys School",
+        "area_label": "Al Qusais",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_ITB_ALQ",
+        "school_label": "Iranian Towheed Boys School",
+        "area_label": "Al Quoz",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_ITG_KAR",
+        "school_label": "Iranian Towheed Girls School",
+        "area_label": "Al Karama",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_ITE_MUH",
+        "school_label": "Islamic School for Training & Education",
+        "area_label": "Muhaisnah",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_JSS_JVC",
+        "school_label": "Japanese School",
+        "area_label": "Al Wasl",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_JSS_WAS",
+        "school_label": "Jebel Ali School",
+        "area_label": "Jebal Ali",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_JAP_WAS",
+        "school_label": "JSS International School",
+        "area_label": "Jumeriah Village Circle",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_JAL_JAL",
+        "school_label": "JSS Private School",
+        "area_label": "Al Wasl",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_JBA_JUM",
+        "school_label": "Jumeira Baccalaureate School",
+        "area_label": "Jumeira",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_JUM_ALF",
+        "school_label": "Jumeirah College",
+        "area_label": "Al Safa",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_JES_ARH",
+        "school_label": "Jumeirah English Speaking School",
+        "area_label": "Al Safa",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_JES_ALF",
+        "school_label": "Jumeirah English Speaking School",
+        "area_label": "Arabian Ranches",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_KEN_NAS",
+        "school_label": "Kent College",
+        "area_label": "Nad Al Sheba",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_KIN_ALB",
+        "school_label": "Kings School",
+        "area_label": "Al Barsha",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_KIN_NAS",
+        "school_label": "Kings School",
+        "area_label": "Nad Al Sheba",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_KIN_UQS",
+        "school_label": "Kings School",
+        "area_label": "Umm Suqeim",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_LFE_HAA",
+        "school_label": "Little Flower English School",
+        "area_label": "Hor Al Anz",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_LFR_MUD",
+        "school_label": "Lycee Francais International",
+        "area_label": "Mudon",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_LFG_ROW",
+        "school_label": "Lycee Francais International Georges Pompidou School",
+        "area_label": "Al Rowaiyah",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_LFG_ODM",
+        "school_label": "Lycee Francais International Georges Pompidou School",
+        "area_label": "Oud Metha",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_LFO_ODM",
+        "school_label": "Lycee Francais International Oud Metha",
+        "area_label": "Oud Metha",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_LFJ_ALQ",
+        "school_label": "Lycee Francais Jean Mermoz",
+        "area_label": "Al Quoz",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_LLF_MYD",
+        "school_label": "Lycée Français Jean Mermoz",
+        "area_label": "Al Barsha",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_LEF_ALB",
+        "school_label": "Lycee Libanais Francophone Prive Meydan",
+        "area_label": "Meydan City",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_MSB_NAH",
+        "school_label": "M S B Private School",
+        "area_label": "Al Nahda",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_MAM_ALM",
+        "school_label": "Mirdif American School",
+        "area_label": "Al Mizhar",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_NEW_RAF",
+        "school_label": "New Academy School",
+        "area_label": "Al Raffa",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_NDA_MUH",
+        "school_label": "New Dawn Private School",
+        "area_label": "Muhaisnah",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_NIM_ALG",
+        "school_label": "New Indian Model School",
+        "area_label": "Al Garhoud",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_NEW_ALW",
+        "school_label": "Newlands School",
+        "area_label": "Al Warqa",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_NGE_ALB",
+        "school_label": "Next Generation School",
+        "area_label": "Al Barsha",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_NAN_ALB",
+        "school_label": "Nord Anglia International School",
+        "area_label": "Al Barsha",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_NAM_ALM",
+        "school_label": "North American International School",
+        "area_label": "Al Mizhar",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_NLC_MYD",
+        "school_label": "North London Collegiate School",
+        "area_label": "Meydan City",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_OTR_ALQ",
+        "school_label": "Oak Tree Primary School",
+        "area_label": "Al Quoz",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_OOW_ALW",
+        "school_label": "Our Own High School",
+        "area_label": "Al Warqa",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_OXF_MUH",
+        "school_label": "Oxford School",
+        "area_label": "Muhaisnah",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_PMB_RAS",
+        "school_label": "Pace Modern British School",
+        "area_label": "Al Rashidiya",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_PSP_AFI",
+        "school_label": "Pace Springfield International School",
+        "area_label": "Al Awir First",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_PED_UHU",
+        "school_label": "Pakistan Education Academy",
+        "area_label": "Umm Hurair",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_PWI_HAA",
+        "school_label": "Pearl Wisdom School",
+        "area_label": "Hor Al Anz",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_PHI_MUH",
+        "school_label": "Philadelphia Private School",
+        "area_label": "Muhaisnah",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_PRI_ALW",
+        "school_label": "Primus Private School",
+        "area_label": "Al Warqa",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_PRI_NAH",
+        "school_label": "Pristine Private School",
+        "area_label": "Al Nahda",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_QUE_DEI",
+        "school_label": "Queen International School",
+        "area_label": "Deira",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_RAF_UQS",
+        "school_label": "Raffles International School",
+        "area_label": "Umm Suqeim",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_RWO_UQS",
+        "school_label": "Raffles World Academy",
+        "area_label": "Umm Suqeim",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_RAN_ARH",
+        "school_label": "Ranches Primary School",
+        "area_label": "Arabian Ranches",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_REG_GRN",
+        "school_label": "Regent International Private School",
+        "area_label": "The Greens",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_REN_DSC",
+        "school_label": "Renaissance School",
+        "area_label": "Dubai Sports City",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_REP_NAS",
+        "school_label": "Repton School",
+        "area_label": "Al Barsha",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_REP_ALB",
+        "school_label": "Repton School",
+        "area_label": "Nad Al Sheba",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_RGG_DSC",
+        "school_label": "Royal Grammar School Guildford",
+        "area_label": "Dubai Sports City",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_RUS_MUH",
+        "school_label": "Russian International School",
+        "area_label": "Muhaisnah",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_SIN_DEI",
+        "school_label": "Sabari Indian School",
+        "area_label": "Deira",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_SBR_ALF",
+        "school_label": "Safa British School",
+        "area_label": "Al Safa",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_SCO_ALB_001",
+        "school_label": "Safa Community School",
+        "area_label": "Al Barsha",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_MSK_MUH",
+        "school_label": "School of Modern Skills",
+        "area_label": "Muhaisnah",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_SAM_ALW",
+        "school_label": "Sharjah American International Private School",
+        "area_label": "Al Warqa",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_SRB_ROW",
+        "school_label": "Sheikh Rashid Bin Saeed Islamic Institute ",
+        "area_label": "Al Rowaiyah",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_SVI_ALB",
+        "school_label": "Smart Vision School",
+        "area_label": "Al Barsha",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_SVI_DLA",
+        "school_label": "South View School",
+        "area_label": "Dubailand",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_SPR_ALQ",
+        "school_label": "Springdales School",
+        "area_label": "Al Quoz",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_SMC_UHU",
+        "school_label": "St. Mary Catholic High School",
+        "area_label": "Umm Hurair",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_SMA_MUH",
+        "school_label": "St. Mary High School",
+        "area_label": "Muhaisnah",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_STA_MRD",
+        "school_label": "Star International School",
+        "area_label": "Al Qusais",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_STA_QUS",
+        "school_label": "Star International School",
+        "area_label": "Mirdif",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_SUN_KHA",
+        "school_label": "Sunmarke School",
+        "area_label": "Al Khail",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_SSC_DHC",
+        "school_label": "Swiss International Scientific School",
+        "area_label": "Dubai Healthcare City",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_ACO_KAR",
+        "school_label": "The Apple International Community School",
+        "area_label": "Al Karama",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_AQU_DLA",
+        "school_label": "The Aquila School",
+        "area_label": "Dubailand",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_ARB_AFJ",
+        "school_label": "The Arbor School",
+        "area_label": "Al Furjan",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_CEN_NAH",
+        "school_label": "The Central School",
+        "area_label": "Al Nahda",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_CIT_NAS",
+        "school_label": "The City School International Private",
+        "area_label": "Nad Al Sheba",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_ENG_UQS",
+        "school_label": "The English College",
+        "area_label": "Umm Suqeim",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_IND_MUH",
+        "school_label": "The Indian Academy",
+        "area_label": "Muhaisnah",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_IND_ALG",
+        "school_label": "The Indian High School",
+        "area_label": "Al Garhoud",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_IND_ODM",
+        "school_label": "The Indian High School",
+        "area_label": "Oud Metha",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_IND_DSO",
+        "school_label": "The Indian International School",
+        "area_label": "Dubai Silicon Oasis",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_CHO_DIP",
+        "school_label": "The International School of Choueifat",
+        "area_label": "Al Safouh",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_CHO_SAF",
+        "school_label": "The International School of Choueifat",
+        "area_label": "Dubai Investment Park",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_MIL_QUS",
+        "school_label": "The Millenium School",
+        "area_label": "Al Qusais",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_NCB_ALG",
+        "school_label": "The National Charity School for Boys",
+        "area_label": "Al Garhoud",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_NCG_ALG",
+        "school_label": "The National Charity School for Girls",
+        "area_label": "Al Garhoud",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_PHI_MUH_001",
+        "school_label": "The Philippine School",
+        "area_label": "Muhaisnah",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_RES_ALW",
+        "school_label": "The School of Research School",
+        "area_label": "Al Warqa",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_RSC_ALW",
+        "school_label": "The School of Research Science",
+        "area_label": "Al Warqa",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_SHE_NAH",
+        "school_label": "The Sheffield Private School",
+        "area_label": "Al Nahda",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_WES_QUS",
+        "school_label": "The Westminster School",
+        "area_label": "Al Qusais",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_WIN_JAL",
+        "school_label": "The Winchester School Dubai",
+        "area_label": "Jebal Ali",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_UNI_MUH",
+        "school_label": "United International Private School",
+        "area_label": "Muhaisnah",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_UAM_RAK",
+        "school_label": "Universal American School",
+        "area_label": "Ras Al Khor",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_UPT_MRD",
+        "school_label": "Uptown International School",
+        "area_label": "Mirdif",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_VHE_DSC",
+        "school_label": "Victory Heights Primary School",
+        "area_label": "Dubai Sports City",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    },
+    {
+        "school_code": "DU_WPA_QUS",
+        "school_label": "Woodlem Park School",
+        "area_label": "Al Qusais",
+        "place_code": "DU",
+        "place_label": "Dubai"
+    }
+]

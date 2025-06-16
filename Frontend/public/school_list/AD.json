@@ -1,0 +1,751 @@
+[
+    {
+      "school_code": "AD_AAW_YAS",
+      "school_name": "Aldar Academies-west Yas School",
+      "location": "Yas Island",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_ABC_ASK",
+      "school_name": "Abc Private School",
+      "location": "Al Shamkhah",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_ACA_SKB",
+      "school_name": "International Academic School",
+      "location": "Shakhbout City",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_ACO_SIS",
+      "school_name": "American Community School",
+      "location": "Al Saadiyat Island",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_ADI_MBZ",
+      "school_name": "Abu Dhabi International Private School ",
+      "location": "Mohamed Bin Zayed City",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_AJY_FAL",
+      "school_name": "Ajyal International School",
+      "location": "Al Falah",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_AME_ALN",
+      "school_name": "Abu Dhabi International Private School (American)",
+      "location": "Al Manhal",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_AME_SAA",
+      "school_name": "The American International School",
+      "location": "Al Sa'adah",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_AQU_SKB",
+      "school_name": "Ashabal Al Quds Secondary Private School",
+      "location": "Shakhbout City",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_ASC_KHC",
+      "school_name": "Adnoc Schools ",
+      "location": "Khalifa City",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_AUS_SKB",
+      "school_name": "Australian School Of Abu Dhabi",
+      "location": "Shakhbout City",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_BAI_BYA",
+      "school_name": "Baraem Al Ain Private School",
+      "location": "Bani Yas",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_BAN_BYA",
+      "school_name": "Baniyas International Private School",
+      "location": "Bani Yas",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_BAS_MBZ",
+      "school_name": "Al Bashair Private School",
+      "location": "Mohamed Bin Zayed City",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_BMA_MBZ",
+      "school_name": "Bait Al Maqdes International Private School",
+      "location": "Mohamed Bin Zayed City",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_BRI_ALN",
+      "school_name": "Abu Dhabi International Private School (British)",
+      "location": "Al Manhal",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_BRI_MBZ",
+      "school_name": "Bright Riders School",
+      "location": "Mohamed Bin Zayed City",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_BSC_ALN",
+      "school_name": "Al Bateen Scientific Private School",
+      "location": "Al Nahyan",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_CAM_SKB",
+      "school_name": "California American School",
+      "location": "Shakhbout City",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_CAN_KHC",
+      "school_name": "Canadian International School",
+      "location": "Khalifa City",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_CHO_KHC",
+      "school_name": "International School Of Choueifat",
+      "location": "Khalifa City",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_CSC_ALM",
+      "school_name": "International Community Schools",
+      "location": "Khalifa City",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_CSC_FAL",
+      "school_name": "International Community Schools",
+      "location": "Al Falah",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_CSC_KHC",
+      "school_name": "International Community Schools ",
+      "location": "Al Mushrif",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_DHA_ALK",
+      "school_name": "Al Dhabiania Private School",
+      "location": "Al Khalidiyah",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_DSC_MBZ",
+      "school_name": "Al Dhafra Private Schools ",
+      "location": "Mohamed Bin Zayed City",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_DUL_BYA",
+      "school_name": "Dar Al Uloom Private School",
+      "location": "Bani Yas",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_DUN_MBZ",
+      "school_name": "Dunes International School",
+      "location": "Mohamed Bin Zayed City",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_EFU_MBZ",
+      "school_name": "Emirates Future International Academy",
+      "location": "Mohamed Bin Zayed City",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_EKH_BYA",
+      "school_name": "Al Ekhlass Private School",
+      "location": "Bani Yas",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_ELI_MBZ",
+      "school_name": "Elite Private School",
+      "location": "Mohamed Bin Zayed City",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_EMI_SAA",
+      "school_name": "Emirates Private School",
+      "location": "Al Sa'adah",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_ENG_MBZ",
+      "school_name": "Private International English School",
+      "location": "Mohamed Bin Zayed City",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_ENS_ALN",
+      "school_name": "Emirates National Schools",
+      "location": "Mohamed Bin Zayed City",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_ENS_MBZ",
+      "school_name": "Emirates National Schools ",
+      "location": "Al Nahyan",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_FAL_BYA",
+      "school_name": "Al Falah Academy ",
+      "location": "Bani Yas",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_FAL_DAN",
+      "school_name": "Al Falah Academy ",
+      "location": "Al Danah",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_FAL_MBZ",
+      "school_name": "Al Falah Academy ",
+      "location": "Mohamed Bin Zayed City",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_FLE_BYA",
+      "school_name": "Future Leaders International Private School ",
+      "location": "Bani Yas",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_FLE_DAN",
+      "school_name": "Future Leaders International Private School",
+      "location": "Al Danah",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_GAM_KHC",
+      "school_name": "Gems American Academy",
+      "location": "Khalifa City",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_GER_ALN",
+      "school_name": "German International School",
+      "location": "Al Manhal",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_GHA_MBZ",
+      "school_name": "Al Ghad School",
+      "location": "Mohamed Bin Zayed City",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_GIN_BYA",
+      "school_name": "Global Indian International School",
+      "location": "Bani Yas",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_GRA_ALZ",
+      "school_name": "Abu Dhabi Grammar School",
+      "location": "Al Zahiyah",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_GUI_BYA",
+      "school_name": "Gems United Indian School",
+      "location": "Bani Yas",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_HAM_KHC",
+      "school_name": "Horizon Private School (American)",
+      "location": "Khalifa City",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_HMO_KHC",
+      "school_name": "Horizon Private School (MoE)",
+      "location": "Khalifa City",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_IEN_DAN",
+      "school_name": "Islamiya English School",
+      "location": "Al Danah",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_INA_KHC",
+      "school_name": "Al Ittihad National Private School",
+      "location": "Khalifa City",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_INA_SKB",
+      "school_name": "Al Ittihad National Private School",
+      "location": "Shakhbout City",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_IND_AWB",
+      "school_name": "Abu Dhabi Indian School ",
+      "location": "Al Wathbah",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_IND_BYA",
+      "school_name": "International Indian School",
+      "location": "Bani Yas",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_IND_HAF",
+      "school_name": "Abu Dhabi Indian School ",
+      "location": "Hadbat Al Za'faranah",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_ITA_KHC",
+      "school_name": "Italian International School",
+      "location": "Khalifa City",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_JUB_DAN",
+      "school_name": "International Jubilee Private School",
+      "location": "Al Danah",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_JYA_BYA",
+      "school_name": "Jern Yafoor",
+      "location": "Bani Yas",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_KTI_ALN",
+      "school_name": "Al Karamah Training Institute",
+      "location": "Al Manhal",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_LEL_SAA",
+      "school_name": "Lycée Louis Massignon",
+      "location": "Al Sa'adah",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_LFT_SIS",
+      "school_name": "Lycee Francais International Theodore Monod",
+      "location": "Al Saadiyat Island",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_LIW_ALM",
+      "school_name": "Liwa International School ",
+      "location": "Al Mushrif",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_MAN_ALM",
+      "school_name": "Al Manhal International Private School",
+      "location": "Al Mushrif",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_MAN_ASK",
+      "school_name": "Al Manara Private School ",
+      "location": "Al Shamkhah",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_MAN_MBZ",
+      "school_name": "Al Manara Private School ",
+      "location": "Mohamed Bin Zayed City",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_MAY_AWB",
+      "school_name": "Mayoor Private School",
+      "location": "Al Wathbah",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_MBO_BYA",
+      "school_name": "Maryam Bint Omran School",
+      "location": "Bani Yas",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_MBR_MBZ",
+      "school_name": "The Mohammed Bin Rashid Center For Special Education",
+      "location": "Mohamed Bin Zayed City",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_MCA_MBZ",
+      "school_name": "Maplewood Canadian International School",
+      "location": "Mohamed Bin Zayed City",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_MCB_MBZ",
+      "school_name": "Model Private School (CBSE)",
+      "location": "Mohamed Bin Zayed City",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_MER_MBZ",
+      "school_name": "Merryland International School",
+      "location": "Mohamed Bin Zayed City",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_MIN_DAN",
+      "school_name": "Al Minhaj Private School",
+      "location": "Al Danah",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_MKE_MBZ",
+      "school_name": "Model Private School (Kerala)",
+      "location": "Mohamed Bin Zayed City",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_MSC_MBZ",
+      "school_name": "Al Murooj Scientific Private School",
+      "location": "Mohamed Bin Zayed City",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_MUN_BYA",
+      "school_name": "Al Muneera Private School",
+      "location": "Bani Yas",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_MUT_BYA",
+      "school_name": "Al Mutanabi",
+      "location": "Bani Yas",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_NAJ_MBZ",
+      "school_name": "Al Najah Private School",
+      "location": "Mohamed Bin Zayed City",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_NNB_ALN",
+      "school_name": "Al Nahda National School For Boys (American)",
+      "location": "Al Nahyan",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_NNB_ALN_001",
+      "school_name": "Al Nahda National School For Boys (British)",
+      "location": "Al Nahyan",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_NNG_ALM",
+      "school_name": "Al Nahda National School For Girls (American)",
+      "location": "Al Mushrif",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_NNG_ALM_001",
+      "school_name": "Al Nahda National School For Girls (British)",
+      "location": "Al Mushrif",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_PEM_ADH",
+      "school_name": "Philippine Emirates Private School",
+      "location": "Abu Dhabi",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_PGL_HAF",
+      "school_name": "The Philippine Global School",
+      "location": "Hadbat Al Za'faranah",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_PHI_BYA",
+      "school_name": "The Philippine School",
+      "location": "Bani Yas",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_RAH_KHC",
+      "school_name": "Raha International School",
+      "location": "Khalifa City",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_RAH_RGA",
+      "school_name": "Raha International School",
+      "location": "Raha Gardens",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_RAM_MBZ",
+      "school_name": "Royal American School",
+      "location": "Mohamed Bin Zayed City",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_RAW_KHC",
+      "school_name": "Rawafed Private School",
+      "location": "Khalifa City",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_ROS_ALN",
+      "school_name": "Rosary Private School",
+      "location": "Al Nahyan",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_RUS_ALB",
+      "school_name": "The Russian School Of Abu Dhabi",
+      "location": "Al Bateen",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_RYA_KHC",
+      "school_name": "Ryan International School",
+      "location": "Khalifa City",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_SAB_YAS",
+      "school_name": "Sabis International School",
+      "location": "Yas Island",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_SAM_SKB",
+      "school_name": "Sharjah American International School",
+      "location": "Shakhbout City",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_SEN_MBZ",
+      "school_name": "Sunrise English Private School",
+      "location": "Mohamed Bin Zayed City",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_SJO_ALM",
+      "school_name": "Saint Joseph Private School",
+      "location": "Al Mushrif",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_SKB_HAF",
+      "school_name": "Sheikh Khalifa Bin Zayed Arab Pakistani School",
+      "location": "Hadbat Al Za'faranah",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_SKB_MUN",
+      "school_name": "Shaikh Khalifa Bin Zayed Bangladesh Islamia Private School",
+      "location": "Al Muntazah",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_SST_MBZ",
+      "school_name": "Shining Star International School",
+      "location": "Mohamed Bin Zayed City",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_SUM_DAN",
+      "school_name": "Summit International School",
+      "location": "Al Danah",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_SUN_ALN",
+      "school_name": "Sunrise International School",
+      "location": "Al Manhal",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_SZB_ALK",
+      "school_name": "The Sheikh Zayed Private Academy For Boys",
+      "location": "Al Khalidiyah",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_SZG_ALN",
+      "school_name": "The Sheikh Zayed Private Academy For Girls",
+      "location": "Al Manhal",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_TNA_BYA",
+      "school_name": "Al Tharawat National Private School",
+      "location": "Bani Yas",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_VIR_SKB",
+      "school_name": "Virginia International Private School",
+      "location": "Shakhbout City",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_VIS_ALM",
+      "school_name": "Vision Private School",
+      "location": "Al Mushrif",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_WAL_ASK",
+      "school_name": "Wales International School",
+      "location": "Al Shamkhah",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_YAS_ASK",
+      "school_name": "Al Yasat Private School",
+      "location": "Al Shamkhah",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    },
+    {
+      "school_code": "AD_YAS_DAN",
+      "school_name": "Yas Academy School",
+      "location": "Al Danah",
+      "place_label": "Abu Dhabi",
+      "place_code": "AD"
+    }
+  ]

@@ -1,0 +1,14 @@
+[auth.email.template.confirmation]
+subject = "Welcome to MunQuest - Confirm Your Email"
+content_path = "./supabase/templates/confirmation.html"
+
+[auth]
+site_url = "http://localhost:3000"
+redirect_urls = [
+  "http://localhost:3000/email-confirmation", 
+  "http://localhost:3000/email-confirmation?email=*",
+  "http://localhost:5173/email-confirmation", 
+  "http://localhost:5173/email-confirmation?email=*",
+  "https://www.munquest.com/email-confirmation", 
+  "https://www.munquest.com/email-confirmation?email=*"
+]
