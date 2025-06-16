@@ -255,6 +255,10 @@
     {
       "date": "2025-06-16T17:43:00",
       "message": "chore: add .editorconfig for cross-editor consistency"
+    },
+    {
+      "date": "2025-06-16T17:43:00",
+      "message": "chore: set up Husky pre-commit hooks"
     }
   ],
   "last_commit_date": "2025-06-16T17:43:00"
