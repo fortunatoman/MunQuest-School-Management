@@ -279,6 +279,10 @@
     {
       "date": "2025-06-17T14:13:00",
       "message": "chore: configure VS Code workspace settings and recommended extensions"
+    },
+    {
+      "date": "2025-06-17T14:13:00",
+      "message": "chore: add Docker and Docker Compose configuration files"
     }
   ],
   "last_commit_date": "2025-06-17T14:13:00"
