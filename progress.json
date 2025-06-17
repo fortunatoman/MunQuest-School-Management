@@ -339,6 +339,10 @@
     {
       "date": "2025-06-17T14:13:00",
       "message": "chore: integrate React Query for server state management"
+    },
+    {
+      "date": "2025-06-17T14:13:00",
+      "message": "chore: set up Axios with base URL and interceptors"
     }
   ],
   "last_commit_date": "2025-06-17T14:13:00"
