@@ -287,6 +287,10 @@
     {
       "date": "2025-06-17T14:13:00",
       "message": "chore: create initial project documentation structure"
+    },
+    {
+      "date": "2025-06-17T14:13:00",
+      "message": "chore: set up environment variable templates (.env.example)"
     }
   ],
   "last_commit_date": "2025-06-17T14:13:00"
