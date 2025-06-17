@@ -355,6 +355,10 @@
     {
       "date": "2025-06-17T14:13:00",
       "message": "chore: set up Jest and React Testing Library"
+    },
+    {
+      "date": "2025-06-17T14:13:00",
+      "message": "chore: configure Playwright for end-to-end testing"
     }
   ],
   "last_commit_date": "2025-06-17T14:13:00"
