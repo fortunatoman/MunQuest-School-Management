@@ -295,6 +295,10 @@
     {
       "date": "2025-06-17T14:13:00",
       "message": "chore: add CONTRIBUTING.md with development guidelines"
+    },
+    {
+      "date": "2025-06-17T14:13:00",
+      "message": "chore: add CODE_OF_CONDUCT.md"
     }
   ],
   "last_commit_date": "2025-06-17T14:13:00"
