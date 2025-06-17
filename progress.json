@@ -271,7 +271,11 @@
     {
       "date": "2025-06-16T17:43:00",
       "message": "chore: initialize npm workspaces for monorepo package management"
+    },
+    {
+      "date": "2025-06-17T14:13:00",
+      "message": "chore: add .nvmrc specifying Node.js version 20"
     }
   ],
-  "last_commit_date": "2025-06-16T17:43:00"
+  "last_commit_date": "2025-06-17T14:13:00"
 }
