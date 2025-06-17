@@ -283,6 +283,10 @@
     {
       "date": "2025-06-17T14:13:00",
       "message": "chore: add Docker and Docker Compose configuration files"
+    },
+    {
+      "date": "2025-06-17T14:13:00",
+      "message": "chore: create initial project documentation structure"
     }
   ],
   "last_commit_date": "2025-06-17T14:13:00"
