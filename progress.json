@@ -307,6 +307,10 @@
     {
       "date": "2025-06-17T14:13:00",
       "message": "chore: add GitHub issue and pull request templates"
+    },
+    {
+      "date": "2025-06-17T14:13:00",
+      "message": "chore: initialize CHANGELOG.md following keep-a-changelog format"
     }
   ],
   "last_commit_date": "2025-06-17T14:13:00"
