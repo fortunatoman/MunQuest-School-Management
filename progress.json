@@ -351,6 +351,10 @@
     {
       "date": "2025-06-17T14:13:00",
       "message": "chore: add Storybook for component development and documentation"
+    },
+    {
+      "date": "2025-06-17T14:13:00",
+      "message": "chore: set up Jest and React Testing Library"
     }
   ],
   "last_commit_date": "2025-06-17T14:13:00"
