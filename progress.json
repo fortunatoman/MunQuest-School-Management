@@ -371,6 +371,10 @@
     {
       "date": "2025-06-18T17:11:00",
       "message": "chore: add Zod for client-side schema validation"
+    },
+    {
+      "date": "2025-06-18T17:11:00",
+      "message": "chore: set up Framer Motion for animations"
     }
   ],
   "last_commit_date": "2025-06-18T17:11:00"
