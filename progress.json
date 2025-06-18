@@ -411,6 +411,10 @@
     {
       "date": "2025-06-18T17:11:00",
       "message": "chore: configure CORS with allowed origins"
+    },
+    {
+      "date": "2025-06-18T17:11:00",
+      "message": "chore: add express-rate-limit for API rate limiting"
     }
   ],
   "last_commit_date": "2025-06-18T17:11:00"
