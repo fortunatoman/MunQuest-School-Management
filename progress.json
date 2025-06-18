@@ -359,6 +359,10 @@
     {
       "date": "2025-06-17T14:13:00",
       "message": "chore: configure Playwright for end-to-end testing"
+    },
+    {
+      "date": "2025-06-17T14:13:00",
+      "message": "chore: add i18next for internationalization support"
     }
   ],
   "last_commit_date": "2025-06-17T14:13:00"
