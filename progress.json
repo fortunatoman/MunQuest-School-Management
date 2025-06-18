@@ -419,6 +419,10 @@
     {
       "date": "2025-06-18T17:11:00",
       "message": "chore: configure Morgan for HTTP request logging"
+    },
+    {
+      "date": "2025-06-18T17:11:00",
+      "message": "chore: add Winston logger with log levels and transports"
     }
   ],
   "last_commit_date": "2025-06-18T17:11:00"
