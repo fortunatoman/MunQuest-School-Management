@@ -459,6 +459,10 @@
     {
       "date": "2025-06-19T11:12:00",
       "message": "chore: add Supertest for HTTP endpoint testing"
+    },
+    {
+      "date": "2025-06-19T11:12:00",
+      "message": "chore: set up Bull queue for background job processing"
     }
   ],
   "last_commit_date": "2025-06-19T11:12:00"
