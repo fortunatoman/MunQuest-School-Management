@@ -639,3 +639,7 @@
 2026-03-18 15:31:24,855 - INFO - [OK] Commit created: feat: create products table with full-text search index
 2026-03-18 15:31:26,502 - INFO - Pushed to GitHub: master
 2026-03-18 15:31:27,504 - INFO - Modified 3 files
+2026-03-18 15:31:28,005 - INFO - Created commit: feat: add categories table with self-referential h...
+2026-03-18 15:31:28,006 - INFO - [OK] Commit created: feat: add categories table with self-referential hierarchy
+2026-03-18 15:31:29,617 - INFO - Pushed to GitHub: master
+2026-03-18 15:31:30,626 - INFO - Modified 3 files

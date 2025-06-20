@@ -559,6 +559,10 @@
     {
       "date": "2025-06-20T13:20:00",
       "message": "feat: add categories table with self-referential hierarchy"
+    },
+    {
+      "date": "2025-06-20T13:20:00",
+      "message": "feat: create orders table with status enum"
     }
   ],
   "last_commit_date": "2025-06-20T13:20:00"
