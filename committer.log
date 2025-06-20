@@ -647,3 +647,7 @@
 2026-03-18 15:31:30,861 - INFO - [OK] Commit created: feat: create orders table with status enum
 2026-03-18 15:31:32,562 - INFO - Pushed to GitHub: master
 2026-03-18 15:31:33,571 - INFO - Modified 3 files
+2026-03-18 15:31:33,957 - INFO - Created commit: feat: add order_items table with foreign key const...
+2026-03-18 15:31:33,959 - INFO - [OK] Commit created: feat: add order_items table with foreign key constraints
+2026-03-18 15:31:35,704 - INFO - Pushed to GitHub: master
+2026-03-18 15:31:36,709 - INFO - Modified 3 files
