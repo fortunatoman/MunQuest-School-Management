@@ -535,6 +535,10 @@
     {
       "date": "2025-06-20T13:20:00",
       "message": "chore: add slowapi for FastAPI rate limiting"
+    },
+    {
+      "date": "2025-06-20T13:20:00",
+      "message": "chore: create initial PostgreSQL schema design"
     }
   ],
   "last_commit_date": "2025-06-20T13:20:00"
