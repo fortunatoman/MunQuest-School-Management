@@ -663,6 +663,10 @@
     {
       "date": "2025-06-26T10:48:00",
       "message": "feat: add login endpoint with JWT access and refresh tokens"
+    },
+    {
+      "date": "2025-06-26T10:48:00",
+      "message": "feat: implement token refresh endpoint"
     }
   ],
   "last_commit_date": "2025-06-26T10:48:00"
