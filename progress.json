@@ -719,6 +719,10 @@
     {
       "date": "2025-06-30T09:32:00",
       "message": "feat: add email change with verification workflow"
+    },
+    {
+      "date": "2025-06-30T09:32:00",
+      "message": "feat: implement password strength validation"
     }
   ],
   "last_commit_date": "2025-06-30T09:32:00"
