@@ -731,6 +731,10 @@
     {
       "date": "2025-07-01T10:25:00",
       "message": "feat: implement refresh token rotation"
+    },
+    {
+      "date": "2025-07-01T10:25:00",
+      "message": "test: add unit tests for authentication service"
     }
   ],
   "last_commit_date": "2025-07-01T10:25:00"
