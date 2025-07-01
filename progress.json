@@ -803,6 +803,10 @@
     {
       "date": "2025-07-01T10:25:00",
       "message": "feat(frontend/users): add user detail modal in admin panel"
+    },
+    {
+      "date": "2025-07-01T10:25:00",
+      "message": "feat(users): implement user activity log"
     }
   ],
   "last_commit_date": "2025-07-01T10:25:00"
