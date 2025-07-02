@@ -839,6 +839,10 @@
     {
       "date": "2025-07-02T16:56:00",
       "message": "feat: add product image upload (multiple images)"
+    },
+    {
+      "date": "2025-07-02T16:56:00",
+      "message": "feat: implement product image reordering"
     }
   ],
   "last_commit_date": "2025-07-02T16:56:00"
