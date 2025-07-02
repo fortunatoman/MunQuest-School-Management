@@ -835,7 +835,11 @@
     {
       "date": "2025-07-01T10:25:00",
       "message": "feat: implement soft delete product"
+    },
+    {
+      "date": "2025-07-02T16:56:00",
+      "message": "feat: add product image upload (multiple images)"
     }
   ],
-  "last_commit_date": "2025-07-01T10:25:00"
+  "last_commit_date": "2025-07-02T16:56:00"
 }
