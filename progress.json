@@ -911,7 +911,11 @@
     {
       "date": "2025-07-03T14:40:00",
       "message": "feat(admin/products): build admin product create/edit form"
+    },
+    {
+      "date": "2025-07-04T17:02:00",
+      "message": "test: add unit and integration tests for product service"
     }
   ],
-  "last_commit_date": "2025-07-03T14:40:00"
+  "last_commit_date": "2025-07-04T17:02:00"
 }
