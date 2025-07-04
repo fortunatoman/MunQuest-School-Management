@@ -1019,6 +1019,10 @@
     {
       "date": "2025-07-04T17:02:00",
       "message": "feat(orders): add get order by ID endpoint"
+    },
+    {
+      "date": "2025-07-04T17:02:00",
+      "message": "feat(orders): implement list user orders with pagination"
     }
   ],
   "last_commit_date": "2025-07-04T17:02:00"
