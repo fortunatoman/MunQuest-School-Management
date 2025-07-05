@@ -1043,6 +1043,10 @@
     {
       "date": "2025-07-05T11:37:00",
       "message": "feat(orders): add admin list all orders with filters"
+    },
+    {
+      "date": "2025-07-05T11:37:00",
+      "message": "feat(orders): implement order fulfillment workflow"
     }
   ],
   "last_commit_date": "2025-07-05T11:37:00"
