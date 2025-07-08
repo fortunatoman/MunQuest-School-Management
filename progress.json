@@ -1079,6 +1079,10 @@
     {
       "date": "2025-07-05T11:37:00",
       "message": "feat(payments): implement create payment intent endpoint"
+    },
+    {
+      "date": "2025-07-05T11:37:00",
+      "message": "feat(payments): add Stripe webhook handler"
     }
   ],
   "last_commit_date": "2025-07-05T11:37:00"
