@@ -1147,6 +1147,10 @@
     {
       "date": "2025-07-08T16:35:00",
       "message": "feat(reviews): add admin moderation for reviews"
+    },
+    {
+      "date": "2025-07-08T16:35:00",
+      "message": "feat(reviews): implement review helpful votes"
     }
   ],
   "last_commit_date": "2025-07-08T16:35:00"
