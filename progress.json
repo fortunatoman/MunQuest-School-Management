@@ -1091,6 +1091,10 @@
     {
       "date": "2025-07-08T16:35:00",
       "message": "feat(payments): add refund processing endpoint"
+    },
+    {
+      "date": "2025-07-08T16:35:00",
+      "message": "feat(payments): implement saved payment methods"
     }
   ],
   "last_commit_date": "2025-07-08T16:35:00"
