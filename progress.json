@@ -1087,6 +1087,10 @@
     {
       "date": "2025-07-08T16:35:00",
       "message": "feat(payments): implement payment confirmation flow"
+    },
+    {
+      "date": "2025-07-08T16:35:00",
+      "message": "feat(payments): add refund processing endpoint"
     }
   ],
   "last_commit_date": "2025-07-08T16:35:00"
