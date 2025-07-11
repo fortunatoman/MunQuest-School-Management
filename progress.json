@@ -1247,6 +1247,10 @@
     {
       "date": "2025-07-11T11:46:00",
       "message": "feat(frontend/media): add media library browser in admin"
+    },
+    {
+      "date": "2025-07-11T11:46:00",
+      "message": "feat(frontend/media): implement upload progress indicator"
     }
   ],
   "last_commit_date": "2025-07-11T11:46:00"
