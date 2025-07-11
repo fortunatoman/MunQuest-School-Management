@@ -1199,6 +1199,10 @@
     {
       "date": "2025-07-11T11:46:00",
       "message": "feat(notifications): add notification preference settings"
+    },
+    {
+      "date": "2025-07-11T11:46:00",
+      "message": "feat(frontend/notifications): build notification bell with badge"
     }
   ],
   "last_commit_date": "2025-07-11T11:46:00"
