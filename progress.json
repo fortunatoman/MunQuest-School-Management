@@ -1239,6 +1239,10 @@
     {
       "date": "2025-07-11T11:46:00",
       "message": "feat(media): implement CDN integration for static assets"
+    },
+    {
+      "date": "2025-07-11T11:46:00",
+      "message": "feat(frontend/media): build drag-and-drop file uploader component"
     }
   ],
   "last_commit_date": "2025-07-11T11:46:00"
