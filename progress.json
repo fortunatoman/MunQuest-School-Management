@@ -1203,6 +1203,10 @@
     {
       "date": "2025-07-11T11:46:00",
       "message": "feat(frontend/notifications): build notification bell with badge"
+    },
+    {
+      "date": "2025-07-11T11:46:00",
+      "message": "feat(frontend/notifications): add notification dropdown panel"
     }
   ],
   "last_commit_date": "2025-07-11T11:46:00"
