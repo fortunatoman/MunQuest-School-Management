@@ -1195,6 +1195,10 @@
     {
       "date": "2025-07-11T11:46:00",
       "message": "feat(notifications): implement email notification templates"
+    },
+    {
+      "date": "2025-07-11T11:46:00",
+      "message": "feat(notifications): add notification preference settings"
     }
   ],
   "last_commit_date": "2025-07-11T11:46:00"
