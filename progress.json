@@ -1383,6 +1383,10 @@
     {
       "date": "2025-07-18T15:06:00",
       "message": "feat(ui): create Dropdown/Select component"
+    },
+    {
+      "date": "2025-07-18T15:06:00",
+      "message": "feat(ui): add Toast/Snackbar notification component"
     }
   ],
   "last_commit_date": "2025-07-18T15:06:00"
