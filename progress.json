@@ -1459,6 +1459,10 @@
     {
       "date": "2025-07-25T15:07:00",
       "message": "feat(ui): add ConfirmDialog component"
+    },
+    {
+      "date": "2025-07-25T15:07:00",
+      "message": "feat(ui): implement Drawer/Sidebar overlay component"
     }
   ],
   "last_commit_date": "2025-07-25T15:07:00"
