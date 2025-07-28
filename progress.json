@@ -1551,6 +1551,10 @@
     {
       "date": "2025-07-28T09:19:00",
       "message": "feat(theme): add theme persistence to localStorage"
+    },
+    {
+      "date": "2025-07-28T09:19:00",
+      "message": "feat(theme): create CSS custom properties for theme variables"
     }
   ],
   "last_commit_date": "2025-07-28T09:19:00"
