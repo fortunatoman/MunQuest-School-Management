@@ -1523,7 +1523,11 @@
     {
       "date": "2025-07-25T15:07:00",
       "message": "feat(home): add featured categories section"
+    },
+    {
+      "date": "2025-07-28T09:19:00",
+      "message": "feat(home): implement featured products carousel"
     }
   ],
-  "last_commit_date": "2025-07-25T15:07:00"
+  "last_commit_date": "2025-07-28T09:19:00"
 }
