@@ -1647,6 +1647,10 @@
     {
       "date": "2025-07-30T11:36:00",
       "message": "security: add security audit logging for sensitive operations"
+    },
+    {
+      "date": "2025-07-30T11:36:00",
+      "message": "security: implement secrets management with AWS Secrets Manager"
     }
   ],
   "last_commit_date": "2025-07-30T11:36:00"
