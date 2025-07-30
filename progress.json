@@ -1719,6 +1719,10 @@
     {
       "date": "2025-07-30T11:36:00",
       "message": "ci: add GitHub Actions workflow for PR checks"
+    },
+    {
+      "date": "2025-07-30T11:36:00",
+      "message": "ci: implement automated test pipeline on push"
     }
   ],
   "last_commit_date": "2025-07-30T11:36:00"
