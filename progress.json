@@ -1703,6 +1703,10 @@
     {
       "date": "2025-07-30T11:36:00",
       "message": "test: implement database seeding for test environment"
+    },
+    {
+      "date": "2025-07-30T11:36:00",
+      "message": "test: add mock server with MSW for frontend tests"
     }
   ],
   "last_commit_date": "2025-07-30T11:36:00"
