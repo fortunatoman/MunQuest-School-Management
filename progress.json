@@ -1747,6 +1747,10 @@
     {
       "date": "2025-07-30T11:36:00",
       "message": "ci: implement smoke tests after deployment"
+    },
+    {
+      "date": "2025-07-30T11:36:00",
+      "message": "ci: add automated rollback on deployment failure"
     }
   ],
   "last_commit_date": "2025-07-30T11:36:00"
