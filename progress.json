@@ -1771,6 +1771,10 @@
     {
       "date": "2025-08-03T19:20:00",
       "message": "ci: implement container vulnerability scanning with Trivy"
+    },
+    {
+      "date": "2025-08-03T19:20:00",
+      "message": "ci: add infrastructure as code deployment with Terraform"
     }
   ],
   "last_commit_date": "2025-08-03T19:20:00"
