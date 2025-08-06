@@ -1895,6 +1895,10 @@
     {
       "date": "2025-08-06T10:26:00",
       "message": "feat(email): add order shipped notification template"
+    },
+    {
+      "date": "2025-08-06T10:26:00",
+      "message": "feat(email): implement order delivered email template"
     }
   ],
   "last_commit_date": "2025-08-06T10:26:00"
