@@ -1879,6 +1879,10 @@
     {
       "date": "2025-08-06T10:26:00",
       "message": "feat(email): create welcome email template"
+    },
+    {
+      "date": "2025-08-06T10:26:00",
+      "message": "feat(email): add email verification template"
     }
   ],
   "last_commit_date": "2025-08-06T10:26:00"
