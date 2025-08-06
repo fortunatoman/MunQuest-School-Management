@@ -1883,6 +1883,10 @@
     {
       "date": "2025-08-06T10:26:00",
       "message": "feat(email): add email verification template"
+    },
+    {
+      "date": "2025-08-06T10:26:00",
+      "message": "feat(email): implement password reset email template"
     }
   ],
   "last_commit_date": "2025-08-06T10:26:00"
