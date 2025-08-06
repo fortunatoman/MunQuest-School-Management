@@ -1887,6 +1887,10 @@
     {
       "date": "2025-08-06T10:26:00",
       "message": "feat(email): implement password reset email template"
+    },
+    {
+      "date": "2025-08-06T10:26:00",
+      "message": "feat(email): create order confirmation email template"
     }
   ],
   "last_commit_date": "2025-08-06T10:26:00"
