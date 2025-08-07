@@ -2410,3 +2410,7 @@
 2026-03-18 15:48:47,064 - INFO - [OK] Commit created: feat(email): implement weekly digest email
 2026-03-18 15:48:48,756 - INFO - Pushed to GitHub: master
 2026-03-18 15:48:49,759 - INFO - Modified 3 files
+2026-03-18 15:48:50,169 - INFO - Created commit: feat(email): add unsubscribe link and preference m...
+2026-03-18 15:48:50,172 - INFO - [OK] Commit created: feat(email): add unsubscribe link and preference management
+2026-03-18 15:48:51,940 - INFO - Pushed to GitHub: master
+2026-03-18 15:48:52,942 - INFO - Modified 3 files
