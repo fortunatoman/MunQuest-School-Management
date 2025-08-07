@@ -1919,6 +1919,10 @@
     {
       "date": "2025-08-07T12:50:00",
       "message": "feat(email): integrate SendGrid for transactional emails"
+    },
+    {
+      "date": "2025-08-07T12:50:00",
+      "message": "feat(email): add email bounce and complaint handling via webhooks"
     }
   ],
   "last_commit_date": "2025-08-07T12:50:00"
