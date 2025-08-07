@@ -1911,7 +1911,11 @@
     {
       "date": "2025-08-06T10:26:00",
       "message": "feat(email): implement weekly digest email"
+    },
+    {
+      "date": "2025-08-07T12:50:00",
+      "message": "feat(email): add unsubscribe link and preference management"
     }
   ],
-  "last_commit_date": "2025-08-06T10:26:00"
+  "last_commit_date": "2025-08-07T12:50:00"
 }
