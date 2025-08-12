@@ -1991,6 +1991,10 @@
     {
       "date": "2025-08-12T17:07:00",
       "message": "feat(i18n): add RTL stylesheet for Arabic support"
+    },
+    {
+      "date": "2025-08-12T17:07:00",
+      "message": "feat(i18n): implement automatic language detection from browser"
     }
   ],
   "last_commit_date": "2025-08-12T17:07:00"
