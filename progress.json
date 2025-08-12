@@ -1971,6 +1971,10 @@
     {
       "date": "2025-08-12T17:07:00",
       "message": "feat(i18n): add Spanish (es) translation"
+    },
+    {
+      "date": "2025-08-12T17:07:00",
+      "message": "feat(i18n): add French (fr) translation"
     }
   ],
   "last_commit_date": "2025-08-12T17:07:00"
