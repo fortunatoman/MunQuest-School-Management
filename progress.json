@@ -1963,6 +1963,10 @@
     {
       "date": "2025-08-12T17:07:00",
       "message": "feat(frontend/realtime): add Socket.IO client integration"
+    },
+    {
+      "date": "2025-08-12T17:07:00",
+      "message": "feat(i18n): add English locale strings"
     }
   ],
   "last_commit_date": "2025-08-12T17:07:00"
