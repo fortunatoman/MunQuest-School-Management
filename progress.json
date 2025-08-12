@@ -1979,6 +1979,10 @@
     {
       "date": "2025-08-12T17:07:00",
       "message": "feat(i18n): implement language switcher component"
+    },
+    {
+      "date": "2025-08-12T17:07:00",
+      "message": "feat(i18n): add locale-aware date and currency formatting"
     }
   ],
   "last_commit_date": "2025-08-12T17:07:00"
