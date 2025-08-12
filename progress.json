@@ -1987,6 +1987,10 @@
     {
       "date": "2025-08-12T17:07:00",
       "message": "feat(i18n): implement pluralization rules"
+    },
+    {
+      "date": "2025-08-12T17:07:00",
+      "message": "feat(i18n): add RTL stylesheet for Arabic support"
     }
   ],
   "last_commit_date": "2025-08-12T17:07:00"
