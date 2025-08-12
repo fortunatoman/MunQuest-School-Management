@@ -1959,7 +1959,11 @@
     {
       "date": "2025-08-08T14:08:00",
       "message": "feat(frontend/realtime): build live chat widget component"
+    },
+    {
+      "date": "2025-08-12T17:07:00",
+      "message": "feat(frontend/realtime): add Socket.IO client integration"
     }
   ],
-  "last_commit_date": "2025-08-08T14:08:00"
+  "last_commit_date": "2025-08-12T17:07:00"
 }
