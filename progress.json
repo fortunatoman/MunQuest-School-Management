@@ -1955,6 +1955,10 @@
     {
       "date": "2025-08-08T14:08:00",
       "message": "feat(realtime): implement rooms for scoped notifications"
+    },
+    {
+      "date": "2025-08-08T14:08:00",
+      "message": "feat(frontend/realtime): build live chat widget component"
     }
   ],
   "last_commit_date": "2025-08-08T14:08:00"
