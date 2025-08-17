@@ -2043,6 +2043,10 @@
     {
       "date": "2025-08-17T12:00:00",
       "message": "feat(seo): add sitemap generation"
+    },
+    {
+      "date": "2025-08-17T12:00:00",
+      "message": "feat(seo): create robots.txt configuration"
     }
   ],
   "last_commit_date": "2025-08-17T12:00:00"
