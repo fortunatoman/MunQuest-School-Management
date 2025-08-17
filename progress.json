@@ -2079,6 +2079,10 @@
     {
       "date": "2025-08-17T12:00:00",
       "message": "feat(analytics): add A/B testing framework with feature flags"
+    },
+    {
+      "date": "2025-08-17T12:00:00",
+      "message": "feat(flags): integrate LaunchDarkly for feature flag management"
     }
   ],
   "last_commit_date": "2025-08-17T12:00:00"
