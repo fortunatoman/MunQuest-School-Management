@@ -2075,6 +2075,10 @@
     {
       "date": "2025-08-17T12:00:00",
       "message": "feat(analytics): implement session recording with Hotjar"
+    },
+    {
+      "date": "2025-08-17T12:00:00",
+      "message": "feat(analytics): add A/B testing framework with feature flags"
     }
   ],
   "last_commit_date": "2025-08-17T12:00:00"
