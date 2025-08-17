@@ -2099,6 +2099,10 @@
     {
       "date": "2025-08-17T12:00:00",
       "message": "feat(responsive): make product listing fully responsive for mobile"
+    },
+    {
+      "date": "2025-08-17T12:00:00",
+      "message": "feat(responsive): optimize checkout flow for mobile devices"
     }
   ],
   "last_commit_date": "2025-08-17T12:00:00"
