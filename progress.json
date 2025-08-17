@@ -2091,6 +2091,10 @@
     {
       "date": "2025-08-17T12:00:00",
       "message": "feat(flags): add feature flag evaluation in backend middleware"
+    },
+    {
+      "date": "2025-08-17T12:00:00",
+      "message": "feat(flags): implement gradual rollout for new features"
     }
   ],
   "last_commit_date": "2025-08-17T12:00:00"
