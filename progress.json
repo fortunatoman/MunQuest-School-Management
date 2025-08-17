@@ -2051,6 +2051,10 @@
     {
       "date": "2025-08-17T12:00:00",
       "message": "feat(seo): implement canonical URL tags"
+    },
+    {
+      "date": "2025-08-17T12:00:00",
+      "message": "feat(seo): add breadcrumb structured data"
     }
   ],
   "last_commit_date": "2025-08-17T12:00:00"
