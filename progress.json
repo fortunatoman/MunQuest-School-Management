@@ -2127,6 +2127,10 @@
     {
       "date": "2025-08-18T17:54:00",
       "message": "feat(pwa): implement background sync for failed requests"
+    },
+    {
+      "date": "2025-08-18T17:54:00",
+      "message": "fix: resolve race condition in token refresh logic"
     }
   ],
   "last_commit_date": "2025-08-18T17:54:00"
