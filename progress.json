@@ -2191,6 +2191,10 @@
     {
       "date": "2025-08-18T17:54:00",
       "message": "fix: resolve infinite re-render in useEffect hook"
+    },
+    {
+      "date": "2025-08-18T17:54:00",
+      "message": "fix(admin): correct pagination offset calculation"
     }
   ],
   "last_commit_date": "2025-08-18T17:54:00"
