@@ -2159,6 +2159,10 @@
     {
       "date": "2025-08-18T17:54:00",
       "message": "fix(ui): correct z-index stacking for modal on mobile"
+    },
+    {
+      "date": "2025-08-18T17:54:00",
+      "message": "fix(payments): handle Stripe webhook signature verification failure"
     }
   ],
   "last_commit_date": "2025-08-18T17:54:00"
