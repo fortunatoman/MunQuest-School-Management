@@ -2211,6 +2211,10 @@
     {
       "date": "2025-08-18T17:54:00",
       "message": "fix(upload): handle large file upload timeout gracefully"
+    },
+    {
+      "date": "2025-08-18T17:54:00",
+      "message": "fix(cors): allow credentials header in CORS configuration"
     }
   ],
   "last_commit_date": "2025-08-18T17:54:00"
