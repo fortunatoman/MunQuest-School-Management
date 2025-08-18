@@ -2666,3 +2666,7 @@
 2026-03-18 15:53:13,523 - INFO - [OK] Commit created: fix: prevent memory leak in long-running job workers
 2026-03-18 15:53:15,240 - INFO - Pushed to GitHub: master
 2026-03-18 15:53:16,243 - INFO - Modified 3 files
+2026-03-18 15:53:18,731 - INFO - Created commit: fix: resolve foreign key violation on order cancel...
+2026-03-18 15:53:18,741 - INFO - [OK] Commit created: fix: resolve foreign key violation on order cancellation
+2026-03-18 15:53:20,410 - INFO - Pushed to GitHub: master
+2026-03-18 15:53:21,413 - INFO - Modified 3 files
