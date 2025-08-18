@@ -2199,6 +2199,10 @@
     {
       "date": "2025-08-18T17:54:00",
       "message": "fix(reviews): prevent duplicate review submission on double-click"
+    },
+    {
+      "date": "2025-08-18T17:54:00",
+      "message": "fix(categories): fix circular reference in nested category tree"
     }
   ],
   "last_commit_date": "2025-08-18T17:54:00"
