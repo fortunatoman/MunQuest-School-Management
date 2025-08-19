@@ -2227,6 +2227,10 @@
     {
       "date": "2025-08-19T12:13:00",
       "message": "fix: fix async context manager leak in DB sessions"
+    },
+    {
+      "date": "2025-08-19T12:13:00",
+      "message": "fix(stripe): handle declined card error response correctly"
     }
   ],
   "last_commit_date": "2025-08-19T12:13:00"
