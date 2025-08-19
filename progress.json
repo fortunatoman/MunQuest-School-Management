@@ -2235,6 +2235,10 @@
     {
       "date": "2025-08-19T12:13:00",
       "message": "fix(analytics): prevent tracking events in development mode"
+    },
+    {
+      "date": "2025-08-19T12:13:00",
+      "message": "refactor: extract token service into separate module"
     }
   ],
   "last_commit_date": "2025-08-19T12:13:00"
