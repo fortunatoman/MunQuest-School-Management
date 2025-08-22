@@ -2271,6 +2271,10 @@
     {
       "date": "2025-08-22T15:54:00",
       "message": "refactor: adopt repository pattern for data access"
+    },
+    {
+      "date": "2025-08-22T15:54:00",
+      "message": "refactor(types): consolidate shared TypeScript types into common package"
     }
   ],
   "last_commit_date": "2025-08-22T15:54:00"
