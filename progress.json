@@ -2287,6 +2287,10 @@
     {
       "date": "2025-08-22T15:54:00",
       "message": "refactor: extract API calls into custom hooks"
+    },
+    {
+      "date": "2025-08-22T15:54:00",
+      "message": "refactor(config): centralize all environment variable access"
     }
   ],
   "last_commit_date": "2025-08-22T15:54:00"
