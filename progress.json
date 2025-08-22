@@ -2295,6 +2295,10 @@
     {
       "date": "2025-08-22T15:54:00",
       "message": "refactor(tests): reduce test duplication with shared fixtures"
+    },
+    {
+      "date": "2025-08-22T15:54:00",
+      "message": "chore: upgrade React from 18.2 to 18.3"
     }
   ],
   "last_commit_date": "2025-08-22T15:54:00"
