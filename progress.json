@@ -2267,6 +2267,10 @@
     {
       "date": "2025-08-22T15:54:00",
       "message": "refactor: migrate from Redux to Zustand for state management"
+    },
+    {
+      "date": "2025-08-22T15:54:00",
+      "message": "refactor: adopt repository pattern for data access"
     }
   ],
   "last_commit_date": "2025-08-22T15:54:00"
