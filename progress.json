@@ -2279,6 +2279,10 @@
     {
       "date": "2025-08-22T15:54:00",
       "message": "refactor: apply dependency injection pattern to FastAPI routes"
+    },
+    {
+      "date": "2025-08-22T15:54:00",
+      "message": "refactor(notifications): decouple notification logic from order service"
     }
   ],
   "last_commit_date": "2025-08-22T15:54:00"
