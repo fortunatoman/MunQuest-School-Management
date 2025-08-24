@@ -2363,6 +2363,10 @@
     {
       "date": "2025-08-24T16:32:00",
       "message": "docs: document CI/CD pipeline flow"
+    },
+    {
+      "date": "2025-08-24T16:32:00",
+      "message": "docs: add testing guide with examples"
     }
   ],
   "last_commit_date": "2025-08-24T16:32:00"
