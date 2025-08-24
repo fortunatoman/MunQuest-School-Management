@@ -2387,6 +2387,10 @@
     {
       "date": "2025-08-24T16:32:00",
       "message": "docs: add ADR (Architecture Decision Record) for tech stack choices"
+    },
+    {
+      "date": "2025-08-24T16:32:00",
+      "message": "docs: document backup and disaster recovery procedures"
     }
   ],
   "last_commit_date": "2025-08-24T16:32:00"
