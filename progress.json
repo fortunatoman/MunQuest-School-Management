@@ -2335,6 +2335,10 @@
     {
       "date": "2025-08-24T16:32:00",
       "message": "chore: pin exact versions for production dependencies"
+    },
+    {
+      "date": "2025-08-24T16:32:00",
+      "message": "docs: update README with full project setup instructions"
     }
   ],
   "last_commit_date": "2025-08-24T16:32:00"
