@@ -2319,6 +2319,10 @@
     {
       "date": "2025-08-22T15:54:00",
       "message": "chore: update FastAPI and Pydantic to latest versions"
+    },
+    {
+      "date": "2025-08-22T15:54:00",
+      "message": "chore: upgrade Tailwind CSS to v4"
     }
   ],
   "last_commit_date": "2025-08-22T15:54:00"
