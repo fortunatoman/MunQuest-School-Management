@@ -2367,6 +2367,10 @@
     {
       "date": "2025-08-24T16:32:00",
       "message": "docs: add testing guide with examples"
+    },
+    {
+      "date": "2025-08-24T16:32:00",
+      "message": "docs: write performance optimization guide"
     }
   ],
   "last_commit_date": "2025-08-24T16:32:00"
