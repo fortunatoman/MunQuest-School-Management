@@ -2371,6 +2371,10 @@
     {
       "date": "2025-08-24T16:32:00",
       "message": "docs: write performance optimization guide"
+    },
+    {
+      "date": "2025-08-24T16:32:00",
+      "message": "docs: add troubleshooting section to README"
     }
   ],
   "last_commit_date": "2025-08-24T16:32:00"
