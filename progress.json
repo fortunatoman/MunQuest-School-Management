@@ -2359,6 +2359,10 @@
     {
       "date": "2025-08-24T16:32:00",
       "message": "docs: write deployment guide for production"
+    },
+    {
+      "date": "2025-08-24T16:32:00",
+      "message": "docs: document CI/CD pipeline flow"
     }
   ],
   "last_commit_date": "2025-08-24T16:32:00"
