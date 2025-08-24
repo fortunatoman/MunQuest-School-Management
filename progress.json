@@ -2395,6 +2395,10 @@
     {
       "date": "2025-08-24T16:32:00",
       "message": "docs: update CHANGELOG for v1.0.0 release"
+    },
+    {
+      "date": "2025-08-24T16:32:00",
+      "message": "feat: implement create coupon endpoint"
     }
   ],
   "last_commit_date": "2025-08-24T16:32:00"
