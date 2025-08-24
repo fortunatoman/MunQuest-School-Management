@@ -2379,6 +2379,10 @@
     {
       "date": "2025-08-24T16:32:00",
       "message": "docs: document WebSocket event contracts"
+    },
+    {
+      "date": "2025-08-24T16:32:00",
+      "message": "docs: write style guide for frontend components"
     }
   ],
   "last_commit_date": "2025-08-24T16:32:00"
