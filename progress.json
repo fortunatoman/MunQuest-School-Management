@@ -2347,6 +2347,10 @@
     {
       "date": "2025-08-24T16:32:00",
       "message": "docs: write developer onboarding guide"
+    },
+    {
+      "date": "2025-08-24T16:32:00",
+      "message": "docs: document environment variables with descriptions"
     }
   ],
   "last_commit_date": "2025-08-24T16:32:00"
