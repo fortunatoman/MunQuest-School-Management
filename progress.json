@@ -2355,6 +2355,10 @@
     {
       "date": "2025-08-24T16:32:00",
       "message": "docs: add database schema ERD diagram"
+    },
+    {
+      "date": "2025-08-24T16:32:00",
+      "message": "docs: write deployment guide for production"
     }
   ],
   "last_commit_date": "2025-08-24T16:32:00"
