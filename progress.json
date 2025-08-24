@@ -2391,6 +2391,10 @@
     {
       "date": "2025-08-24T16:32:00",
       "message": "docs: document backup and disaster recovery procedures"
+    },
+    {
+      "date": "2025-08-24T16:32:00",
+      "message": "docs: update CHANGELOG for v1.0.0 release"
     }
   ],
   "last_commit_date": "2025-08-24T16:32:00"
