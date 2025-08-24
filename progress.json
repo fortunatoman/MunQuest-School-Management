@@ -2383,6 +2383,10 @@
     {
       "date": "2025-08-24T16:32:00",
       "message": "docs: write style guide for frontend components"
+    },
+    {
+      "date": "2025-08-24T16:32:00",
+      "message": "docs: add ADR (Architecture Decision Record) for tech stack choices"
     }
   ],
   "last_commit_date": "2025-08-24T16:32:00"
