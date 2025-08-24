@@ -2343,6 +2343,10 @@
     {
       "date": "2025-08-24T16:32:00",
       "message": "docs: add architecture diagram to documentation"
+    },
+    {
+      "date": "2025-08-24T16:32:00",
+      "message": "docs: write developer onboarding guide"
     }
   ],
   "last_commit_date": "2025-08-24T16:32:00"
