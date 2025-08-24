@@ -2331,6 +2331,10 @@
     {
       "date": "2025-08-24T16:32:00",
       "message": "chore: fix critical vulnerability in minimist package"
+    },
+    {
+      "date": "2025-08-24T16:32:00",
+      "message": "chore: pin exact versions for production dependencies"
     }
   ],
   "last_commit_date": "2025-08-24T16:32:00"
