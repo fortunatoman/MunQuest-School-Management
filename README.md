@@ -29,8 +29,6 @@ A full-stack application for managing Model United Nations (MUN) events, includi
    - **App:** http://localhost:3001  
    - **API:** http://localhost:1000  
 
-More details (env vars, stopping): [DOCKER.md](DOCKER.md).
-
 ### Option 2: Run locally
 
 **Backend**
