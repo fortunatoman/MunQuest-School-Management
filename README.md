@@ -68,7 +68,6 @@ Then open http://localhost:3001 (frontend) and use the API at http://localhost:1
 
 - [Frontend/README.md](Frontend/README.md) – Frontend structure, design system, conventions  
 - [Backend/README.md](Backend/README.md) – API structure, routes, conventions  
-- [DOCKER.md](DOCKER.md) – Docker setup and usage  
 
 ## License
 
